@@ -1,0 +1,63 @@
+﻿<Page x:Class="SmartCity.nolight"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SmartCity"
+      mc:Ignorable="d" 
+      d:DesignHeight="717" d:DesignWidth="1300"
+      Title="nolight">
+    <Page.Background>
+        <ImageBrush ImageSource="lights.png" Stretch="Fill"/>
+    </Page.Background>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="button" Margin="7.173,7.102,10.447,7.209" BorderBrush="Transparent" RenderTransformOrigin="0.5,0.5" Click="button_Click" Grid.Column="2">
+            
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Black"/>
+                        </Trigger>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/lights.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="ideas_light_bulb_icon_16_png" Source="ideas-light-bulb-icon-16.png" Stretch="Fill" Width="103.747" Height="99.164" RenderTransformOrigin="0.5,0.5">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-179.991"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Image.RenderTransform>
+            </Image>
+        </Button>
+        <Image x:Name="speech_bubble_md_png" Margin="137.9,8.372,-2.532,109.295" Source="speech-bubble-md.png" Stretch="Fill" Grid.Row="2"/>
+        <Label x:Name="label" Content="Πατήστε τη λάμπα&#xD;&#xA;για να ανάψετε τα&#xD;&#xA;          φώτα!" Margin="185.593,46.109,47.783,0" VerticalAlignment="Top" FontSize="18" Foreground="#FF0D0E0B" FontFamily="Stencil" Height="80.66" RenderTransformOrigin="0.437,0.312" d:LayoutOverrides="Width" Grid.Row="2" FontWeight="Bold"/>
+        <Image x:Name="owl_png" HorizontalAlignment="Left" Source="owl.png" Stretch="Fill" Width="180" Margin="0,141.053,0,0" Grid.Row="2"/>
+    </Grid>
+</Page>

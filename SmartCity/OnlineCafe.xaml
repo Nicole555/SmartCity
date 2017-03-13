@@ -1,0 +1,427 @@
+﻿<Page x:Class="SmartCity.OnlineCafe"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SmartCity"
+      mc:Ignorable="d" 
+      d:DesignHeight="717" d:DesignWidth="1300"
+      Title="OnlineCafe" Width="Auto" Height="Auto" Opacity="0.9" Background="#FFDDE7E8">
+
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock x:Name="textBlock" Margin="28.698,36,0,18" TextWrapping="Wrap" FontSize="20" HorizontalAlignment="Left" d:LayoutOverrides="TopMargin, BottomMargin" FontWeight="Bold" Text="Καφές-Ροφήματα"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Height="26" Margin="10,36.135,0,0" TextWrapping="Wrap" Text="Εσπρέσσο" VerticalAlignment="Top" Width="79.975" FontSize="16" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin" Grid.Row="1" Background="#FF33A298" Foreground="#FFF1F0F0"/>
+        <TextBlock x:Name="textBlock2" HorizontalAlignment="Left" Height="26" Margin="10,86.13,0,0" TextWrapping="Wrap" Text="Cappuccino" VerticalAlignment="Top" Width="92.321" FontSize="16" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin" Grid.Row="1" Background="White"/>
+        <TextBlock x:Name="textBlock3" HorizontalAlignment="Left" Height="26" Margin="10,137.665,0,0" TextWrapping="Wrap" Text="Americano" VerticalAlignment="Top" Width="79.975" FontSize="16" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin" Grid.Row="1" Background="#FF33A298" Foreground="#FFF1F0F0"/>
+        <TextBlock x:Name="textBlock4" HorizontalAlignment="Left" Height="26" Margin="10,191.08,0,0" TextWrapping="Wrap" Text="Σοκολάτα" VerticalAlignment="Top" Width="79.975" FontSize="16" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin" Grid.Row="1" Background="White"/>
+        <Button x:Name="espresso" Margin="189.586,25.406,0,0" BorderBrush="Transparent" Height="40" VerticalAlignment="Top" Click="espresso_Click" RenderTransformOrigin="-0.392,1.738" HorizontalAlignment="Left" Width="40" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Black"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="Add_to_Cart_512_png" Source="Add_to_Cart-512.png" Stretch="Fill" Height="34" Width="34"/>
+        </Button>
+        <Button x:Name="espresso_Copy" Margin="253.623,25.406,0,0" BorderBrush="Transparent" HorizontalAlignment="Left" Width="40" Height="40" VerticalAlignment="Top" Click="espresso_Copy_Click" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Black"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="icon_image_png" Height="34" Source="icon_image.png" Stretch="Fill" Width="34"/>
+        </Button>
+        <Button x:Name="cappuccino" Margin="189.586,85.26,0,0" BorderBrush="Transparent" HorizontalAlignment="Left" Height="40" VerticalAlignment="Top" Width="40" Click="cappuccino_Click" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Black"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="Add_to_Cart_512_png1" Height="34" Source="Add_to_Cart-512.png" Stretch="Fill" Width="34"/>
+        </Button>
+        <Button x:Name="americano" Margin="189.586,143.386,0,0" BorderBrush="Transparent" Height="40" VerticalAlignment="Top" Click="americano_Click" HorizontalAlignment="Left" Width="40" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Black"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="Add_to_Cart_512_png2" Height="34" Source="Add_to_Cart-512.png" Stretch="Fill" Width="34"/>
+        </Button>
+        <Button x:Name="chocolate" Margin="189.586,194.169,0,0" BorderBrush="Transparent" Height="40" VerticalAlignment="Top" Click="chocolate_Click" HorizontalAlignment="Left" Width="40" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Black"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="Add_to_Cart_512_png3" Height="34" Source="Add_to_Cart-512.png" Stretch="Fill" Width="34" RenderTransformOrigin="0.5,0.5"/>
+        </Button>
+        <Button x:Name="cappuccino_Copy" Margin="253.623,86.13,0,0" BorderBrush="Transparent" HorizontalAlignment="Left" Height="40" VerticalAlignment="Top" Width="40" Click="cappuccino_Copy_Click" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Black"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="icon_image_png1" Height="34" Source="icon_image.png" Stretch="Fill" Width="34"/>
+        </Button>
+        <Button x:Name="americano_Copy" Margin="253.623,143.386,0,0" BorderBrush="Transparent" HorizontalAlignment="Left" Height="40" VerticalAlignment="Top" Width="40" Click="americano_Copy_Click" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Black"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="icon_image_png2" Height="34" Source="icon_image.png" Stretch="Fill" Width="34"/>
+        </Button>
+        <Button x:Name="chocolate_Copy" Margin="253.623,194.169,0,0" BorderBrush="Transparent" HorizontalAlignment="Left" Height="40" VerticalAlignment="Top" Width="40" Click="chocolate_Copy_Click" RenderTransformOrigin="-0.285,1.313" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Black"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="icon_image_png3" Height="34" Source="icon_image.png" Stretch="Fill" Width="34"/>
+        </Button>
+
+        <TextBlock x:Name="faghto" Margin="412.469,36,0,18" TextWrapping="Wrap" FontSize="20" Text="Φαγητό" FontWeight="Bold" HorizontalAlignment="Left" Width="77.988"/>
+        <TextBlock x:Name="textBlock5" Height="26" Margin="412.469,18.868,545.031,0" TextWrapping="Wrap" Text="Γαριδομακαρονάδα" VerticalAlignment="Top" FontSize="16" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin" Background="#FF33A298" Foreground="#FFF1F0F0"/>
+        <TextBlock x:Name="textBlock6" Height="48.648" Margin="412.469,49.649,545.031,0" TextWrapping="Wrap" Text="Σνίτσελ με τηγανητές πατάτες" VerticalAlignment="Top" FontSize="16" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin" Background="#FFF5EFEF"/>
+        <TextBlock x:Name="textBlock7" HorizontalAlignment="Left" Height="46.683" Margin="412.469,107.993,0,0" TextWrapping="Wrap" Text="Χοιρινό αλά κρεμ με ρύζι" VerticalAlignment="Top" Width="108" FontSize="16" RenderTransformOrigin="0.493,1.007" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin" Background="#FF33A298" Foreground="#FFF1F0F0"/>
+        <TextBlock x:Name="textBlock8" HorizontalAlignment="Left" Margin="412.469,163.466,0,0" TextWrapping="Wrap" Text="Σαλάτα του Καίσαρα" Width="108" FontSize="16" Height="56" VerticalAlignment="Top" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin" Background="#FFF5EFEF"/>
+        <TextBlock x:Name="pota" Margin="0,36,103.468,18" TextWrapping="Wrap" FontSize="20" Text="Ποτά - Κρασιά" d:LayoutOverrides="TopMargin, BottomMargin" HorizontalAlignment="Right" Width="145.532" FontWeight="Bold"/>
+        <TextBox x:Name="cart" IsReadOnly="True" ScrollViewer.VerticalScrollBarVisibility="Auto" Margin="-212.191,244.329,-28.235,167.158" TextWrapping="Wrap" FontStyle="Italic" FontSize="16" Grid.Column="1" Grid.Row="1" d:LayoutOverrides="TopMargin, BottomMargin"/>
+
+        <TextBox x:Name="total_cost" IsReadOnly="True" Height="33.944" Margin="0,0,-14,128.214" TextWrapping="Wrap" VerticalAlignment="Bottom" RenderTransformOrigin="4.086,2.231" Background="Transparent" Text="0" Grid.Column="1" HorizontalAlignment="Right" Width="33.618" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin"/>
+        <TextBox x:Name="esprice" IsReadOnly="True" Height="26" Margin="117.198,36.135,0,0" TextWrapping="Wrap" Text="2,50" VerticalAlignment="Top" Background="#FF33A298" HorizontalAlignment="Left" Width="34.716" RenderTransformOrigin="1.354,0.521" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin" SelectionBrush="{x:Null}" BorderBrush="{x:Null}" Foreground="#FFF1F0F0"/>
+        <TextBox x:Name="capprice" IsReadOnly="True" Height="25.297" Margin="117.198,86.13,0,0" TextWrapping="Wrap" Text="3,50" VerticalAlignment="Top" Background="White" HorizontalAlignment="Left" Width="34.716" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin" SelectionBrush="{x:Null}" BorderBrush="{x:Null}"/>
+        <TextBox x:Name="amprice" IsReadOnly="True" Height="25.297" Margin="117.198,138.982,0,0" TextWrapping="Wrap" Text="3,00" VerticalAlignment="Top" Background="#FF33A298" HorizontalAlignment="Left" Width="34.716" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin" SelectionBrush="{x:Null}" BorderBrush="{x:Null}" Foreground="#FFF1F0F0"/>
+        <TextBox x:Name="chprice" IsReadOnly="True" Height="25.297" Margin="117.198,194.169,0,0" TextWrapping="Wrap" Text="4,00" VerticalAlignment="Top" Background="White" HorizontalAlignment="Left" Width="34.716" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin" SelectionBrush="{x:Null}" BorderBrush="{x:Null}"/>
+        <TextBox x:Name="gprice" IsReadOnly="True" Height="25.297" Margin="0,17.397,466.33,0" TextWrapping="Wrap" Text="19,60" VerticalAlignment="Top" Background="#FF33A298" HorizontalAlignment="Right" Width="46.54" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin" SelectionBrush="{x:Null}" BorderBrush="{x:Null}" Foreground="#FFF1F0F0"/>
+        <TextBox x:Name="sniprice" IsReadOnly="True" Height="25.297" Margin="0,70.18,471.268,0" TextWrapping="Wrap" Text="17,50" VerticalAlignment="Top" Background="#FFF5EFEF" HorizontalAlignment="Right" Width="41.602" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin" SelectionBrush="{x:Null}" BorderBrush="{x:Null}"/>
+        <TextBox x:Name="xprice" IsReadOnly="True" Height="25.297" Margin="0,116.1,471.268,0" TextWrapping="Wrap" Text="15,50" VerticalAlignment="Top" Background="#FF33A298" HorizontalAlignment="Right" Width="41.602" Grid.Row="1" d:LayoutOverrides="TopMargin, BottomMargin" SelectionBrush="{x:Null}" BorderBrush="{x:Null}" Foreground="#FFF1F0F0"/>
+        <TextBox x:Name="salprice" IsReadOnly="True" Height="25.297" Margin="0,175.13,466.329,0" TextWrapping="Wrap" Text="8,70" VerticalAlignment="Top" Background="#FFF5EFEF" HorizontalAlignment="Right" Width="46.541" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin" SelectionBrush="{x:Null}" BorderBrush="{x:Null}"/>
+        <Button x:Name="garides" Margin="0,17.397,402.423,0" BorderBrush="Transparent" HorizontalAlignment="Right" Height="40" VerticalAlignment="Top" Width="40" RenderTransformOrigin="12.383,0.866" Click="garides_Click" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Black"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="Add_to_Cart_512_png4" Source="Add_to_Cart-512.png" Stretch="Fill" Width="34" Height="34"/>
+        </Button>
+        <Button x:Name="garides_Copy" Margin="0,17.397,327.089,0" BorderBrush="Transparent" HorizontalAlignment="Right" Height="40" VerticalAlignment="Top" Width="40" Click="garides_Copy_Click" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Black"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="icon_image_png4" Height="34" Source="icon_image.png" Stretch="Fill" Width="34"/>
+        </Button>
+        <Button x:Name="snitsel" Margin="0,64.406,402.423,0" BorderBrush="Transparent" HorizontalAlignment="Right" Height="40" VerticalAlignment="Top" Width="40" Click="snitsel_Click" RenderTransformOrigin="-0.015,0.588" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Black"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="Add_to_Cart_512_png5" Source="Add_to_Cart-512.png" Stretch="Fill" Height="34" Width="34"/>
+        </Button>
+        <Button x:Name="snitsel_Copy" Margin="0,62.397,327.089,0" BorderBrush="Transparent" HorizontalAlignment="Right" Height="40" VerticalAlignment="Top" Width="40" Click="snitsel_Copy_Click" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Black"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="icon_image_png5" Height="34" Source="icon_image.png" Stretch="Fill" Width="34"/>
+        </Button>
+        <Button x:Name="xoirino" Margin="0,112.18,402.423,0" BorderBrush="Transparent" HorizontalAlignment="Right" Height="40" VerticalAlignment="Top" Width="40" Click="xoirino_Click" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Black"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="Add_to_Cart_512_png6" Height="34" Source="Add_to_Cart-512.png" Stretch="Fill" Width="34" RenderTransformOrigin="0.277,0.706"/>
+        </Button>
+        <Button x:Name="xoirino_Copy" Margin="0,112.18,327.089,0" BorderBrush="Transparent" HorizontalAlignment="Right" Height="40" VerticalAlignment="Top" Width="40" Click="xoirino_Copy_Click" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Black"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="icon_image_png6" Height="34" Source="icon_image.png" Stretch="Fill" Width="34"/>
+        </Button>
+        <Button x:Name="salata" Margin="0,163.466,402.423,0" BorderBrush="Transparent" HorizontalAlignment="Right" Height="40" VerticalAlignment="Top" Width="40" Click="salata_Click" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Black"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="Add_to_Cart_512_png7" Height="34" Source="Add_to_Cart-512.png" Stretch="Fill" Width="34" RenderTransformOrigin="0.5,0.5"/>
+        </Button>
+        <Button x:Name="salata_Copy" Margin="0,163.466,327.089,0" BorderBrush="Transparent" HorizontalAlignment="Right" Height="40" VerticalAlignment="Top" Width="40" Click="salata_Copy_Click" RenderTransformOrigin="0.354,-0.256" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Black"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="icon_image_png7" Height="34" Source="icon_image.png" Stretch="Fill" Width="34"/>
+        </Button>
+        <TextBlock x:Name="textBlock9" HorizontalAlignment="Right" Height="25.297" Margin="0,17.397,142,0" TextWrapping="Wrap" Text="Μπύρα" VerticalAlignment="Top" Width="107" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin" FontSize="16" Background="#FF33A298" Foreground="#FFF1F0F0"/>
+        <TextBlock x:Name="textBlock10" HorizontalAlignment="Right" Height="30.071" Margin="0,65.406,142,0" TextWrapping="Wrap" Text="Κόκκινο Κρασί" VerticalAlignment="Top" Width="107" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin" FontSize="16" Background="#FFF5EFEF"/>
+        <TextBlock x:Name="textBlock11" HorizontalAlignment="Right" Height="25.297" Margin="0,116.1,142,0" TextWrapping="Wrap" Text="Λευκό Κρασί" VerticalAlignment="Top" Width="106" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin" FontSize="16" Background="#FF33A298" Foreground="#FFF1F0F0"/>
+        <TextBox x:Name="beerprice" IsReadOnly="True" HorizontalAlignment="Right" Height="25.297" Margin="0,17.397,39,0" TextWrapping="Wrap" Text="4,50" VerticalAlignment="Top" Width="40" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin" SelectionBrush="{x:Null}" BorderBrush="{x:Null}" Background="#FF33A298" Foreground="#FFF1F0F0"/>
+        <TextBox x:Name="redprice" IsReadOnly="True" HorizontalAlignment="Right" Height="25.297" Margin="0,64.406,39,0" TextWrapping="Wrap" Text="7,00" VerticalAlignment="Top" Width="40" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin" SelectionBrush="{x:Null}" BorderBrush="{x:Null}" Background="#FFF5EFEF"/>
+        <TextBox x:Name="whprice" IsReadOnly="True" HorizontalAlignment="Right" Height="25.297" Margin="0,112.18,39,0" TextWrapping="Wrap" Text="7,00" VerticalAlignment="Top" Width="40" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin" SelectionBrush="{x:Null}" BorderBrush="{x:Null}" Background="#FF33A298" Foreground="#FFF1F0F0"/>
+        <Button x:Name="beer" Height="40" Margin="29.5,18.868,10,0" VerticalAlignment="Top" BorderBrush="Transparent" Click="beer_Click_1" Grid.Column="1" Grid.Row="1">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Black"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="Add_to_Cart_512_png8" Height="34" Source="Add_to_Cart-512.png" Stretch="Fill" Width="34" RenderTransformOrigin="0.5,0.5"/>
+        </Button>
+        <Button x:Name="beer_Copy" Height="40" Margin="10,18.868,36,0" VerticalAlignment="Top"  BorderBrush="Transparent" Click="beer_Copy_Click_1" Grid.Column="2" Grid.Row="1">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Black"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="icon_image_png8" Height="34" Source="icon_image.png" Stretch="Fill" Width="34"/>
+        </Button>
+        <Button x:Name="redwine" Height="40" Margin="29.5,62.397,10,0" VerticalAlignment="Top" BorderBrush="Transparent" Click="redwine_Click_1" Grid.Column="1" Grid.Row="1" d:LayoutOverrides="TopMargin, BottomMargin">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Black"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="Add_to_Cart_512_png9" Height="34" Source="Add_to_Cart-512.png" Stretch="Fill" Width="34" RenderTransformOrigin="0.5,0.5"/>
+        </Button>
+        <Button x:Name="redwine_Copy" Height="40" Margin="10,62.397,36,0" VerticalAlignment="Top" BorderBrush="Transparent" Click="redwine_Copy_Click_1" Grid.Column="2" Grid.Row="1">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Black"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="icon_image_png9" Height="34" Source="icon_image.png" Stretch="Fill" Width="34"/>
+        </Button>
+        <Button x:Name="whitewine" Height="40" Margin="29.5,107.397,10,0" VerticalAlignment="Top" BorderBrush="Transparent" Click="whitewine_Click_1" Grid.Column="1" Grid.Row="1" d:LayoutOverrides="TopMargin, BottomMargin">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Black"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="Add_to_Cart_512_png10" Height="34" Source="Add_to_Cart-512.png" Stretch="Fill" Width="34" RenderTransformOrigin="0.5,0.5"/>
+        </Button>
+        <Button x:Name="whitewine_Copy" Height="40" Margin="10,107.397,36,0" VerticalAlignment="Top" BorderBrush="Transparent" Click="whitewine_Copy_Click_1" Grid.Column="2" Grid.Row="1">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Black"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="icon_image_png10" Height="34" Source="icon_image.png" Stretch="Fill" Width="34"/>
+        </Button>
+        <Button x:Name="finish_order" Content="Αποστολή Παραγγελίας" Height="43" Margin="-59.075,0,-5.333,45.383" VerticalAlignment="Bottom" Click="finish_order_Click" Background="{DynamicResource {x:Static SystemColors.ControlDarkBrushKey}}" FontWeight="Bold" Grid.Column="1" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+        <TextBlock x:Name="textBlock12" HorizontalAlignment="Left" Height="37" Margin="189.586,0,0,233" TextWrapping="Wrap" Text="Στοιχεία Παραγγελίας" VerticalAlignment="Bottom" Width="219.623" FontSize="20" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin" FontWeight="Bold"/>
+        <TextBlock x:Name="textBlock13" HorizontalAlignment="Left" Height="19" Margin="137.265,0,0,177.158" TextWrapping="Wrap" Text="Ονοματεπώνυμο" VerticalAlignment="Bottom" Width="130.5" Grid.Row="1" d:LayoutOverrides="TopMargin, BottomMargin" FontSize="16"/>
+        <TextBlock x:Name="textBlock14" HorizontalAlignment="Left" Height="28.579" Margin="137.265,0,0,118.214" TextWrapping="Wrap" Text="Διεύθυνση" VerticalAlignment="Bottom" Width="102" Grid.Row="1" FontSize="16"/>
+        <TextBlock x:Name="textBlock15" HorizontalAlignment="Left" Height="26.912" Margin="137.265,0,0,70.137" TextWrapping="Wrap" Text="Τηλέφωνο" VerticalAlignment="Bottom" Width="120.821" Grid.Row="1" FontSize="16"/>
+        <TextBox x:Name="name" MaxLength="40" HorizontalAlignment="Left" Height="29" Margin="304.432,0,0,167.158" TextWrapping="Wrap" VerticalAlignment="Bottom" Width="180" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin">
+            <TextBox.BorderBrush>
+                <RadialGradientBrush>
+                    <GradientStop Color="#FFABADB3" Offset="0.05"/>
+                    <GradientStop Color="#FFE2E3EA" Offset="0.07"/>
+                    <GradientStop Color="#FF5A5C5D" Offset="1"/>
+                </RadialGradientBrush>
+            </TextBox.BorderBrush>
+            <TextBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFCBC6C6" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBox.Background>
+        </TextBox>
+        <TextBox x:Name="address" MaxLength="35" HorizontalAlignment="Left" Height="28.579" Margin="304.432,0,0,118.214" TextWrapping="Wrap" VerticalAlignment="Bottom" Width="180" Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin">
+            <TextBox.BorderBrush>
+                <RadialGradientBrush>
+                    <GradientStop Color="#FFABADB3" Offset="0.05"/>
+                    <GradientStop Color="#FFE2E3EA" Offset="0.07"/>
+                    <GradientStop Color="#FF5A5C5D" Offset="1"/>
+                </RadialGradientBrush>
+            </TextBox.BorderBrush>
+            <TextBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFCBC6C6" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBox.Background>
+        </TextBox>
+        <TextBox x:Name="phone" MaxLength="10" HorizontalAlignment="Left" Height="26.912" Margin="305.209,0,0,70.137" TextWrapping="Wrap" VerticalAlignment="Bottom" Width="179.223" Grid.Row="1" PreviewTextInput="phone_PreviewTextInput" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin">
+            <TextBox.BorderBrush>
+                <RadialGradientBrush>
+                    <GradientStop Color="#FFABADB3" Offset="0.05"/>
+                    <GradientStop Color="#FFE2E3EA" Offset="0.07"/>
+                    <GradientStop Color="#FF5A5C5D" Offset="1"/>
+                </RadialGradientBrush>
+            </TextBox.BorderBrush>
+            <TextBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFCBC6C6" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBox.Background>
+        </TextBox>
+        <Label x:Name="label" Content="Συνολικό Ποσό" Margin="-79,0,0,136.198" VerticalAlignment="Bottom" Grid.Column="1" d:LayoutOverrides="TopMargin, BottomMargin" Grid.Row="1" Height="25.96" HorizontalAlignment="Left" Width="122" FontWeight="Bold" FontSize="14"/>
+        <Button x:Name="back1" Margin="10,10,10,12" BorderBrush="Transparent" Click="back1_Click" Grid.Column="1" d:LayoutOverrides="TopMargin, BottomMargin">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="back_png" Source="back.png" Stretch="Fill" Width="60" Height="60"/>
+        </Button>
+
+        <Button x:Name="exit" Margin="10,10,6,12" BorderBrush="Transparent" Click="exit_Click" Grid.Column="2" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="xclose_icon_png_pagespeed_ic_a9KAtgUF_Y_png" Source="xclose-icon.png.pagespeed.ic.a9KAtgUF_Y.png" Stretch="Fill" Height="60" RenderTransformOrigin="0.376,1.188" d:LayoutOverrides="VerticalAlignment" Width="60"/>
+        </Button>
+        <Label x:Name="label1" Content="Καλάθι Αγορών" HorizontalAlignment="Right" Margin="0,200.229,51.948,0" Grid.Row="1" VerticalAlignment="Top" Width="160.243" FontSize="18" FontWeight="Bold"/>
+    </Grid>
+</Page>

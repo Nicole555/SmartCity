@@ -1,0 +1,54 @@
+﻿<Page x:Class="SmartCity.CafeLocations"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SmartCity"
+      mc:Ignorable="d" 
+      d:DesignHeight="717" d:DesignWidth="1300"
+      Title="CafeLocations">
+    <Page.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FFF5FDFD" Offset="0"/>
+            <GradientStop Color="#FF28B6AF" Offset="1"/>
+        </LinearGradientBrush>
+    </Page.Background>
+
+    <Grid>
+        <TextBox x:Name="textBox1" IsReadOnly="True" ScrollViewer.VerticalScrollBarVisibility="Auto" HorizontalAlignment="Left" Margin="112.124,174.087,0,184.999" TextWrapping="Wrap" Text="Πανεπιστήμιο Πειραιά και Οικονομικό Πανεπιστήμιο Πειραιά&#xA;Καραολή και Δημητρίου 80, Πειραιάς 185 34&#xD;&#xA;&#xA;Προχωρήστε βορειοδυτικά προς Δεληγιώργη&#xA;Δρόμος περιορισμένης χρήσης&#xA;52 μ&#xD;&#xA;&#xA;Στροφή αριστερά στη(ν) Δεληγιώργη&#xA;350 μ&#xD;&#xA;&#xA;Στροφή δεξιά στη(ν) Αγγέλου Μεταξά&#xA;38 μ&#xD;&#xA;&#xA;Belle Amie&#xA;Αγγέλου Μεταξά 11, Πειραιάς 185 34&#xA;" Width="178" Visibility="Hidden"/>
+        <Image x:Name="belleamie" Margin="426,119.087,174,137.999" Source="belleamie.png" Stretch="Fill" Visibility="Hidden"/>
+        <TextBox x:Name="textBox2" IsReadOnly="True" ScrollViewer.VerticalScrollBarVisibility="Auto" HorizontalAlignment="Left" Margin="112.124,174.087,0,184.999" TextWrapping="Wrap" Text="Πανεπιστήμιο Πειραιά και Οικονομικό Πανεπιστήμιο Πειραιά&#xA;Καραολή και Δημητρίου 80, Πειραιάς 185 34&#xD;&#xA;&#xA;Προχωρήστε βορειοδυτικά προς Δεληγιώργη&#xA;Δρόμος περιορισμένης χρήσης&#xA;52 μ&#xD;&#xA;&#xA;Στροφή αριστερά στη(ν) Δεληγιώργη&#xA;180 μ&#xD;&#xA;&#xA;Στροφή δεξιά στη(ν) Λεωφ. Βασιλέως Γεωργίου Β&#xA;130 μ&#xD;&#xA;&#xA;Στροφή αριστερά στη(ν) Γρ. Λαμπράκη&#xA;Ο προορισμός σας θα βρίσκεται στα αριστερά σας&#xA;210 μ&#xD;&#xA;&#xA;Gazi College&#xA;Γρ. Λαμπράκη 117, Πειραιάς 185 35&#xA;" Width="178" Visibility="Hidden"/>
+        <Image x:Name="gazi_college" Margin="426,155.087,174,158.999" Source="gazi college.png" Stretch="Fill" Visibility="Hidden"/>
+        <TextBox x:Name="textBox3" IsReadOnly="True" ScrollViewer.VerticalScrollBarVisibility="Auto" Margin="112.124,174.087,0,184.999" TextWrapping="Wrap" Text="Πανεπιστήμιο Πειραιά και Οικονομικό Πανεπιστήμιο Πειραιά&#xA;Καραολή και Δημητρίου 80, Πειραιάς 185 34&#xD;&#xA;&#xA;Προχωρήστε βορειοδυτικά προς Δεληγιώργη&#xA;Δρόμος περιορισμένης χρήσης&#xA;52 μ&#xD;&#xA;&#xA;Στροφή δεξιά στη(ν) Δεληγιώργη&#xD;&#xA;&#xA;Ο προορισμός σας θα βρίσκεται στα αριστερά σας&#xA;9 μ&#xD;&#xA;&#xA;Lostre cafe&#xA;Δεληγιώργη 112, Πειραιάς 185 34&#xA;" HorizontalAlignment="Left" Width="178" Visibility="Hidden"/>
+        <Image x:Name="lostre" Margin="405,155.087,185,158.999" Source="lostre.png" Stretch="Fill" Visibility="Hidden"/>
+
+        <Button x:Name="back1" Margin="0,14.96,98,0" BorderBrush="Transparent" Width="70" Height="70" Click="back1_Click" HorizontalAlignment="Right" VerticalAlignment="Top" d:LayoutOverrides="Height">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="back_png" Source="back.png" Stretch="Fill" Width="60" Height="60"/>
+        </Button>
+
+        <Button x:Name="exit" Margin="0,14.96,10,0" BorderBrush="Transparent" Width="70" Height="70" Click="exit_Click" HorizontalAlignment="Right" VerticalAlignment="Top" d:LayoutOverrides="Width, Height">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="xclose_icon_png_pagespeed_ic_a9KAtgUF_Y_png" Source="xclose-icon.png.pagespeed.ic.a9KAtgUF_Y.png" Stretch="Fill" Height="60" RenderTransformOrigin="0.376,1.188" d:LayoutOverrides="VerticalAlignment" Width="60"/>
+        </Button>
+        <Label x:Name="label" Content="Οδηγίες και χάρτης" Margin="394,31.322,418.007,0" FontSize="30" FontStyle="Italic" FontWeight="Bold" Height="67.96" VerticalAlignment="Top"/>
+    </Grid>
+</Page>

@@ -1,0 +1,173 @@
+﻿<Page x:Class="SmartCity.Monitor"
+      KeepAlive="True"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:gif="http://wpfanimatedgif.codeplex.com"
+      xmlns:local="clr-namespace:SmartCity"
+      mc:Ignorable="d" 
+      d:DesignHeight="717" d:DesignWidth="1300"
+      Title="Monitor">
+    <Page.Background>
+        <ImageBrush ImageSource="office.jpg"/>
+    </Page.Background>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="553*"/>
+            <ColumnDefinition Width="120*"/>
+            <ColumnDefinition Width="627*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="178*"/>
+            <RowDefinition Height="92*"/>
+            <RowDefinition Height="72*"/>
+            <RowDefinition Height="80*"/>
+            <RowDefinition Height="188*"/>
+            <RowDefinition Height="90*"/>
+            <RowDefinition Height="17*"/>
+        </Grid.RowDefinitions>
+        <Image x:Name="monitor1_png" Margin="0,1,142,5" Source="monitor1.png" Stretch="Fill" HorizontalAlignment="Right" Width="101" RenderTransformOrigin="0.829,0.724" Grid.Row="1"/>
+        <Image x:Name="monitor2_png" Margin="46.333,63.333,0,4.667" Source="monitor2.png" Stretch="Fill" HorizontalAlignment="Left" Width="151"/>
+        <Image x:Name="monitor3_png" Margin="0,0,129.465,-19.186" Source="monitor3.png" Stretch="Fill" HorizontalAlignment="Right" Width="85.979" RenderTransformOrigin="0.5,0.5" Height="96.084" VerticalAlignment="Bottom" Grid.Column="2">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.587"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="monitor4_png" Margin="30,-43,0,1" Source="monitor4.png" Stretch="Fill" HorizontalAlignment="Left" Width="139" Grid.Row="2" Grid.Column="2"/>
+        <Image x:Name="monitor5_png" HorizontalAlignment="Right" Margin="0,26.946,148.078,1.946" Source="monitor5.png" Stretch="Fill" Width="138.844" RenderTransformOrigin="0.5,0.5" Grid.Row="2" Grid.RowSpan="2" Grid.Column="2">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.345"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="monitor6_png" Margin="3.333,28,0.834,22" Source="monitor6.png" Stretch="Fill" Grid.Row="1" Grid.RowSpan="2" Grid.Column="1"/>
+
+        <Image x:Name="one" gif:ImageBehavior.AnimatedSource="ladyexc.gif" Margin="55.667,71.666,0,31.335" HorizontalAlignment="Left" Width="131.666" Stretch="Fill" />
+        <Image x:Name="two" gif:ImageBehavior.AnimatedSource="ladyeat.gif" Margin="9.333,35.999,7.501,-23.332" Stretch="Fill" Grid.Row="1" Grid.Column="1" />
+        <Image x:Name="three" gif:ImageBehavior.AnimatedSource="ladytv.gif"  Margin="0,33.332,182.5,-35" HorizontalAlignment="Right" Width="96" Grid.Row="2" Grid.Column="2" />
+        <Image x:Name="four" gif:ImageBehavior.AnimatedSource="manbed.gif"  Margin="0,0,133.779,9.841" Height="62.372" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="78.65" RenderTransformOrigin="0.5,0.5" Stretch="Fill" Grid.Column="2" >
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-1.456"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="five" gif:ImageBehavior.AnimatedSource="manwalk.gif" Margin="52.5,0,0,-33.332" HorizontalAlignment="Left" Width="89.167" Height="72.167" VerticalAlignment="Bottom" Grid.Row="1" Grid.Column="2" />
+        <Image x:Name="six" gif:ImageBehavior.AnimatedSource="tecman.gif" Margin="0,11,159.666,22" HorizontalAlignment="Right" Width="62.5" Grid.Row="1" />
+        <Button x:Name="exit" Margin="0,10,24,0" BorderBrush="Transparent" Width="70" Height="70" Click="exit_Click" HorizontalAlignment="Right" VerticalAlignment="Top" d:LayoutOverrides="Width, Height" Grid.Column="2">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="xclose_icon_png_pagespeed_ic_a9KAtgUF_Y_png" Source="xclose-icon.png.pagespeed.ic.a9KAtgUF_Y.png" Stretch="Fill" Height="60" RenderTransformOrigin="0.376,1.188" d:LayoutOverrides="VerticalAlignment" Width="60"/>
+        </Button>
+        <Label x:Name="label" Content="1" HorizontalAlignment="Left" Margin="111.5,0,0,-6.333" VerticalAlignment="Bottom" Foreground="#FFEAE4E4" FontSize="16" RenderTransformOrigin="0.295,0.234" Height="37.668"/>
+        <Label x:Name="label_Copy" Content="2" HorizontalAlignment="Right" Margin="0,0,183.873,-10.401" VerticalAlignment="Bottom" Foreground="#FFEAE4E4" FontSize="16" RenderTransformOrigin="0.295,0.234" Height="37.668" Grid.Row="1"/>
+        <Label x:Name="label_Copy1" Content="3" Margin="53.5,23.332,47.873,11" Foreground="#FFEAE4E4" FontSize="16" RenderTransformOrigin="0.295,0.234" Grid.Row="2" Grid.Column="1" d:LayoutOverrides="Width"/>
+        <Label x:Name="label_Copy2" Content="4" HorizontalAlignment="Left" Margin="90.5,33.332,0,1" Foreground="#FFEAE4E4" FontSize="16" RenderTransformOrigin="0.295,0.234" Grid.Row="2" Grid.Column="2"/>
+        <Label x:Name="label_Copy3" Content="5" HorizontalAlignment="Right" Margin="0,0,207.873,3.332" VerticalAlignment="Bottom" Foreground="#FF131212" FontSize="16" RenderTransformOrigin="0.295,0.234" Height="27.668" Grid.Row="3" Grid.Column="2"/>
+        <Label x:Name="label_Copy4" Content="6" HorizontalAlignment="Right" Margin="0,-11.267,162.5,0" Foreground="#FF080707" FontSize="16" RenderTransformOrigin="0.295,0.234" Height="37.668" Grid.Row="1" VerticalAlignment="Top" Grid.Column="2"/>
+        <Label x:Name="label1" Content="Στείλε Βοήθεια πατώντας το αντίστοιχο κουμπί:" HorizontalAlignment="Left" Margin="-192.667,0,0,7.04" FontSize="22" Grid.Row="4" VerticalAlignment="Bottom" Grid.Column="2" d:LayoutOverrides="HorizontalAlignment"/>
+        <Button x:Name="button" Content="No1" HorizontalAlignment="Right" Margin="0,15.49,147.166,-0.49" Width="75" FontSize="20" Foreground="#FF15833D" Background="#FFF3F9F3" Click="button_Click" Grid.Row="5">
+            <Button.Style>
+                <Style TargetType="Button">                   
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+        <Button x:Name="button_Copy" Content="No2" HorizontalAlignment="Right" Margin="0,15.49,32.873,-0.49" Width="75" FontSize="20" Foreground="#FF15833D" Background="#FFF3F9F3" Click="button_Copy_Click" Grid.Row="5">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+        <Button x:Name="button_Copy1" Content="No3" Margin="9.333,15.49,35.667,-0.49" FontSize="20" Foreground="#FF15833D" Background="#FFF3F9F3" Click="button_Copy1_Click" Grid.Row="5" Grid.Column="1">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+        <Button x:Name="button_Copy2" Content="No4" HorizontalAlignment="Left" Margin="9.333,15.49,0,-0.49" Width="75" FontSize="20" Foreground="#FF15833D" Background="#FFF3F9F3" Click="button_Copy2_Click" Grid.Row="5" Grid.Column="2">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+        <Button x:Name="button_Copy3" Content="No5" Margin="126.5,15.49,0,-0.49" HorizontalAlignment="Left" Width="75" RenderTransformOrigin="1.087,0.513" FontSize="20" Foreground="#FF15833D" Background="#FFF3F9F3" Click="button_Copy3_Click" Grid.Row="5" Grid.Column="2">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+        <Button x:Name="button_Copy4" Content="No6" Margin="242,15.49,310,-0.49" FontSize="20" Foreground="#FF15833D" Background="#FFF3F9F3" Click="button_Copy4_Click" Grid.Row="5" Grid.Column="2">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+        <Button x:Name="back1" Margin="0,10,111.126,0" BorderBrush="Transparent" Width="70" Height="70" Click="back1_Click" HorizontalAlignment="Right" d:LayoutOverrides="Height" VerticalAlignment="Top" Grid.Column="2">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+             </Button.Style>
+            <Image x:Name="back_png" Source="back.png" Stretch="Fill" Width="60" Height="60"/>
+        </Button>
+        <Label x:Name="label2" Content="Προσοχή!&#xD;&#xA;Δεν μπορείτε&#xD;&#xA;να στείλετε&#xD;&#xA; βοήθεια δύο &#xD;&#xA;φορές!" HorizontalAlignment="Left" Margin="46.333,-79.007,0,10.95" Width="220.94" FontWeight="Bold" FontSize="22" Grid.Row="5"/>
+
+    </Grid>
+</Page>

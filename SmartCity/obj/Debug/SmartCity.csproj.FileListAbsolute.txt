@@ -1,0 +1,1806 @@
+c:\users\nikol\documents\visual studio 2015\Projects\SmartCity\SmartCity\bin\Debug\SmartCity.exe.config
+c:\users\nikol\documents\visual studio 2015\Projects\SmartCity\SmartCity\bin\Debug\SmartCity.exe
+c:\users\nikol\documents\visual studio 2015\Projects\SmartCity\SmartCity\bin\Debug\SmartCity.pdb
+c:\users\nikol\documents\visual studio 2015\Projects\SmartCity\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+c:\users\nikol\documents\visual studio 2015\Projects\SmartCity\SmartCity\obj\Debug\HomePage.g.cs
+c:\users\nikol\documents\visual studio 2015\Projects\SmartCity\SmartCity\obj\Debug\MainWindow.g.cs
+c:\users\nikol\documents\visual studio 2015\Projects\SmartCity\SmartCity\obj\Debug\UserHomePage.g.cs
+c:\users\nikol\documents\visual studio 2015\Projects\SmartCity\SmartCity\obj\Debug\App.g.cs
+c:\users\nikol\documents\visual studio 2015\Projects\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+c:\users\nikol\documents\visual studio 2015\Projects\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+c:\users\nikol\documents\visual studio 2015\Projects\SmartCity\SmartCity\obj\Debug\HomePage.baml
+c:\users\nikol\documents\visual studio 2015\Projects\SmartCity\SmartCity\obj\Debug\MainWindow.baml
+c:\users\nikol\documents\visual studio 2015\Projects\SmartCity\SmartCity\obj\Debug\UserHomePage.baml
+c:\users\nikol\documents\visual studio 2015\Projects\SmartCity\SmartCity\obj\Debug\SmartCity.g.resources
+c:\users\nikol\documents\visual studio 2015\Projects\SmartCity\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+c:\users\nikol\documents\visual studio 2015\Projects\SmartCity\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+c:\users\nikol\documents\visual studio 2015\Projects\SmartCity\SmartCity\obj\Debug\SmartCity.exe
+c:\users\nikol\documents\visual studio 2015\Projects\SmartCity\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\User\Desktop\SmartCity(1)\SmartCity\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\User\Desktop\SmartCity(1)\SmartCity\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\User\Desktop\SmartCity(1)\SmartCity\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\User\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\User\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\User\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\App.g.cs
+C:\Users\User\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\User\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\User\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\HomePage.baml
+C:\Users\User\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\User\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\User\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\User\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\User\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\User\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\University.g.cs
+C:\Users\User\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\University.baml
+C:\Users\User\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\User\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\nikol\Desktop\SmartCity(1)\SmartCity\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\nikol\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\nikol\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\nikol\Desktop\SmartCity(1)\SmartCity\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\nikol\Desktop\SmartCity(1)\SmartCity\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\nikol\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\nikol\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\nikol\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\nikol\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\nikol\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\University.g.cs
+C:\Users\nikol\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\nikol\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\App.g.cs
+C:\Users\nikol\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\nikol\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\nikol\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\HomePage.baml
+C:\Users\nikol\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\nikol\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\nikol\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\University.baml
+C:\Users\nikol\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\nikol\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\nikol\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\nikol\Desktop\SmartCity(1)\SmartCity\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Τελευταιο\SmartCity(1)\SmartCity\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\User\Desktop\Τελευταιο\SmartCity(1)\SmartCity\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\User\Desktop\Τελευταιο\SmartCity(1)\SmartCity\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\User\Desktop\Τελευταιο\SmartCity(1)\SmartCity\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\User\Desktop\Τελευταιο\SmartCity(1)\SmartCity\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\User\Desktop\Τελευταιο\SmartCity(1)\SmartCity\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Τελευταιο\SmartCity(1)\SmartCity\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\User\Desktop\Τελευταιο\SmartCity(1)\SmartCity\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Τελευταιο\SmartCity(1)\SmartCity\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\User\Desktop\Τελευταιο\SmartCity(1)\SmartCity\SmartCity\obj\Debug\University.g.cs
+C:\Users\User\Desktop\Τελευταιο\SmartCity(1)\SmartCity\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\User\Desktop\Τελευταιο\SmartCity(1)\SmartCity\SmartCity\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Τελευταιο\SmartCity(1)\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\User\Desktop\Τελευταιο\SmartCity(1)\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\User\Desktop\Τελευταιο\SmartCity(1)\SmartCity\SmartCity\obj\Debug\HomePage.baml
+C:\Users\User\Desktop\Τελευταιο\SmartCity(1)\SmartCity\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Τελευταιο\SmartCity(1)\SmartCity\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\User\Desktop\Τελευταιο\SmartCity(1)\SmartCity\SmartCity\obj\Debug\University.baml
+C:\Users\User\Desktop\Τελευταιο\SmartCity(1)\SmartCity\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\User\Desktop\Τελευταιο\SmartCity(1)\SmartCity\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\User\Desktop\Τελευταιο\SmartCity(1)\SmartCity\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\User\Desktop\Τελευταιο\SmartCity(1)\SmartCity\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Τελευταιο\SmartCityyy\SmartCity\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\User\Desktop\Τελευταιο\SmartCityyy\SmartCity\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\User\Desktop\Τελευταιο\SmartCityyy\SmartCity\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\User\Desktop\Τελευταιο\SmartCityyy\SmartCity\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\User\Desktop\Τελευταιο\SmartCityyy\SmartCity\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\User\Desktop\Τελευταιο\SmartCityyy\SmartCity\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Τελευταιο\SmartCityyy\SmartCity\SmartCity\obj\Debug\DayPlanner.g.cs
+C:\Users\User\Desktop\Τελευταιο\SmartCityyy\SmartCity\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\User\Desktop\Τελευταιο\SmartCityyy\SmartCity\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Τελευταιο\SmartCityyy\SmartCity\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\User\Desktop\Τελευταιο\SmartCityyy\SmartCity\SmartCity\obj\Debug\University.g.cs
+C:\Users\User\Desktop\Τελευταιο\SmartCityyy\SmartCity\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\User\Desktop\Τελευταιο\SmartCityyy\SmartCity\SmartCity\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Τελευταιο\SmartCityyy\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\User\Desktop\Τελευταιο\SmartCityyy\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\User\Desktop\Τελευταιο\SmartCityyy\SmartCity\SmartCity\obj\Debug\DayPlanner.baml
+C:\Users\User\Desktop\Τελευταιο\SmartCityyy\SmartCity\SmartCity\obj\Debug\HomePage.baml
+C:\Users\User\Desktop\Τελευταιο\SmartCityyy\SmartCity\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Τελευταιο\SmartCityyy\SmartCity\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\User\Desktop\Τελευταιο\SmartCityyy\SmartCity\SmartCity\obj\Debug\University.baml
+C:\Users\User\Desktop\Τελευταιο\SmartCityyy\SmartCity\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\User\Desktop\Τελευταιο\SmartCityyy\SmartCity\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\User\Desktop\Τελευταιο\SmartCityyy\SmartCity\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\User\Desktop\Τελευταιο\SmartCityyy\SmartCity\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Τελευταιο\SmartCityyy\SmartCity\SmartCity\obj\Debug\nolight.g.cs
+C:\Users\User\Desktop\Τελευταιο\SmartCityyy\SmartCity\SmartCity\obj\Debug\nolight.baml
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\DayPlanner.g.cs
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\nolight.g.cs
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\University.g.cs
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\App.g.cs
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\DayPlanner.baml
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\HomePage.baml
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\nolight.baml
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\University.baml
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\S_P_Pezh.g.cs
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\S_P_Pezh.baml
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\S_P_Car.g.cs
+C:\Users\nikol\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\S_P_Car.baml
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\DayPlanner.g.cs
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\nolight.g.cs
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\S_P_Car.g.cs
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\S_P_Pezh.g.cs
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\University.g.cs
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\App.g.cs
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\DayPlanner.baml
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\HomePage.baml
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\nolight.baml
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\S_P_Car.baml
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\S_P_Pezh.baml
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\University.baml
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\User\Desktop\SmartCityyy\SmartCity\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\DayPlanner.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\nolight.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\University.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\App.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\DayPlanner.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\HomePage.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\nolight.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\University.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\DayPlanner.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\nolight.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\University.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\App.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\DayPlanner.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\HomePage.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\nolight.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\University.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\Cafe.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\Cafe.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\User\Desktop\SmartCity\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\User\Desktop\SmartCity\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\Cafe.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\DayPlanner.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\nolight.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\University.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\App.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\Cafe.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\DayPlanner.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\HomePage.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\nolight.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\University.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\OnlineCafe.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\OnlineCafe.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\nikol\Desktop\SmartCity\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\nikol\Desktop\SmartCity\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\Cafe.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\DayPlanner.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\nolight.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\OnlineCafe.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\University.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\App.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\Cafe.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\DayPlanner.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\HomePage.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\nolight.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\OnlineCafe.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\University.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\RemoteControl.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\RemoteControl.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\Receipt.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\Receipt.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\Cafe.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\DayPlanner.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\nolight.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\OnlineCafe.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\Receipt.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\RemoteControl.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\University.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\App.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\Cafe.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\DayPlanner.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\HomePage.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\nolight.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\OnlineCafe.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\Receipt.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\RemoteControl.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\University.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\Receipt.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\RemoteControl.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\Receipt.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\RemoteControl.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\CafeLocations.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\CafeLocations.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\Cafe1.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\Cafe2.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\CafeLocations.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\Cafe1.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\Cafe2.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\CafeLocations.baml
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\Cafe.g.cs
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\Cafe1.g.cs
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\Cafe2.g.cs
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\CafeLocations.g.cs
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\DayPlanner.g.cs
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\nolight.g.cs
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\OnlineCafe.g.cs
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\Receipt.g.cs
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\RemoteControl.g.cs
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\University.g.cs
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\App.g.cs
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\Cafe.baml
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\Cafe1.baml
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\Cafe2.baml
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\CafeLocations.baml
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\DayPlanner.baml
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\HomePage.baml
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\nolight.baml
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\OnlineCafe.baml
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\Receipt.baml
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\RemoteControl.baml
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\University.baml
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\User\Desktop\μπεεε\SmartCity\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\Cafe1.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\Cafe2.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\Cafe1.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\Cafe2.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\bin\Debug\WpfAnimatedGif.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\bin\Debug\WpfAnimatedGif.xml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\Cafe.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\Cafe1.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\Cafe2.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\CafeLocations.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\DayPlanner.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\nolight.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\OnlineCafe.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\Receipt.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\RemoteControl.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\University.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\App.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\Cafe.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\Cafe1.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\Cafe2.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\CafeLocations.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\DayPlanner.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\HomePage.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\nolight.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\OnlineCafe.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\Receipt.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\RemoteControl.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\University.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\CoffeeMaker.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\CoffeeMaker.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\bin\Debug\WpfAnimatedGif.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\bin\Debug\WpfAnimatedGif.xml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\CoffeeMaker.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\CoffeeMaker.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\bin\Debug\WpfAnimatedGif.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\bin\Debug\WpfAnimatedGif.xml
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\CoffeeMaker.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\CoffeeMaker.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\SuccessCoffee.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\SuccessCoffee.baml
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\bin\Debug\WpfAnimatedGif.dll
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\bin\Debug\WpfAnimatedGif.xml
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\Cafe.g.cs
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\Cafe1.g.cs
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\Cafe2.g.cs
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\CafeLocations.g.cs
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\CoffeeMaker.g.cs
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\DayPlanner.g.cs
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\nolight.g.cs
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\OnlineCafe.g.cs
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\Receipt.g.cs
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\RemoteControl.g.cs
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\SuccessCoffee.g.cs
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\University.g.cs
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\App.g.cs
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\Cafe.baml
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\Cafe1.baml
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\Cafe2.baml
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\CafeLocations.baml
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\CoffeeMaker.baml
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\DayPlanner.baml
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\HomePage.baml
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\nolight.baml
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\OnlineCafe.baml
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\Receipt.baml
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\RemoteControl.baml
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\SuccessCoffee.baml
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\University.baml
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\Alarm.g.cs
+C:\Users\nikol\Desktop\SmartCity -1\SmartCity\obj\Debug\Alarm.baml
+C:\Users\User\Desktop\SmartCity -1\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\User\Desktop\SmartCity -1\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\User\Desktop\SmartCity -1\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\User\Desktop\SmartCity -1\SmartCity\bin\Debug\WpfAnimatedGif.dll
+C:\Users\User\Desktop\SmartCity -1\SmartCity\bin\Debug\WpfAnimatedGif.xml
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\Alarm.g.cs
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\Cafe.g.cs
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\Cafe1.g.cs
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\Cafe2.g.cs
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\CafeLocations.g.cs
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\CoffeeMaker.g.cs
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\DayPlanner.g.cs
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\nolight.g.cs
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\OnlineCafe.g.cs
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\Receipt.g.cs
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\RemoteControl.g.cs
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\SuccessCoffee.g.cs
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\University.g.cs
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\App.g.cs
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\Alarm.baml
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\Cafe.baml
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\Cafe1.baml
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\Cafe2.baml
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\CafeLocations.baml
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\CoffeeMaker.baml
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\DayPlanner.baml
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\HomePage.baml
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\nolight.baml
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\OnlineCafe.baml
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\Receipt.baml
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\RemoteControl.baml
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\SuccessCoffee.baml
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\University.baml
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\ElderSupport.g.cs
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\ElderSupport.baml
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\Result.g.cs
+C:\Users\User\Desktop\SmartCity -1\SmartCity\obj\Debug\Result.baml
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\bin\Debug\WpfAnimatedGif.dll
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\bin\Debug\WpfAnimatedGif.xml
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\Alarm.g.cs
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\Cafe.g.cs
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\Cafe1.g.cs
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\Cafe2.g.cs
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\CafeLocations.g.cs
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\CoffeeMaker.g.cs
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\DayPlanner.g.cs
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\ElderSupport.g.cs
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\nolight.g.cs
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\OnlineCafe.g.cs
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\Receipt.g.cs
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\RemoteControl.g.cs
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\Result.g.cs
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\SuccessCoffee.g.cs
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\University.g.cs
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\App.g.cs
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\Alarm.baml
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\Cafe.baml
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\Cafe1.baml
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\Cafe2.baml
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\CafeLocations.baml
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\CoffeeMaker.baml
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\DayPlanner.baml
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\ElderSupport.baml
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\HomePage.baml
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\nolight.baml
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\OnlineCafe.baml
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\Receipt.baml
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\RemoteControl.baml
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\Result.baml
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\SuccessCoffee.baml
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\University.baml
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\nikol\Desktop\SmartCity new\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SmartCity new\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\User\Desktop\SmartCity new\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\User\Desktop\SmartCity new\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\User\Desktop\SmartCity new\SmartCity\bin\Debug\WpfAnimatedGif.dll
+C:\Users\User\Desktop\SmartCity new\SmartCity\bin\Debug\WpfAnimatedGif.xml
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\Alarm.g.cs
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\Cafe.g.cs
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\Cafe1.g.cs
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\Cafe2.g.cs
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\CafeLocations.g.cs
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\CoffeeMaker.g.cs
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\DayPlanner.g.cs
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\ElderSupport.g.cs
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\nolight.g.cs
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\OnlineCafe.g.cs
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\Receipt.g.cs
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\RemoteControl.g.cs
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\Result.g.cs
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\SuccessCoffee.g.cs
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\University.g.cs
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\App.g.cs
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\Alarm.baml
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\Cafe.baml
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\Cafe1.baml
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\Cafe2.baml
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\CafeLocations.baml
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\CoffeeMaker.baml
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\DayPlanner.baml
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\ElderSupport.baml
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\HomePage.baml
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\nolight.baml
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\OnlineCafe.baml
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\Receipt.baml
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\RemoteControl.baml
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\Result.baml
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\SuccessCoffee.baml
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\University.baml
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\User\Desktop\SmartCity new\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\Alarm.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\ElderSupport.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\Result.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\Alarm.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\ElderSupport.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\Result.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\WpfAnimatedGif.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\WpfAnimatedGif.xml
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Alarm.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Cafe.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Cafe1.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Cafe2.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\CafeLocations.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\CoffeeMaker.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\DayPlanner.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\ElderSupport.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\nolight.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\OnlineCafe.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Receipt.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\RemoteControl.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Result.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\SuccessCoffee.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\University.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\App.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Alarm.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Cafe.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Cafe1.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Cafe2.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\CafeLocations.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\CoffeeMaker.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\DayPlanner.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\ElderSupport.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\HomePage.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\nolight.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\OnlineCafe.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Receipt.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\RemoteControl.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Result.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\SuccessCoffee.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\University.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\WpfAnimatedGif.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\WpfAnimatedGif.xml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Alarm.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Cafe.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Cafe1.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Cafe2.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\CafeLocations.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\CoffeeMaker.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\ElderSupport.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\OnlineCafe.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Parking.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Receipt.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\RemoteControl.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Result.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\SuccessCoffee.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Alarm.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Cafe.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Cafe1.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Cafe2.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\CafeLocations.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\CoffeeMaker.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\ElderSupport.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\OnlineCafe.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Parking.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Receipt.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\RemoteControl.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Result.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\SuccessCoffee.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Microwave.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Microwave.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Microwave.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Parking.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Microwave.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Parking.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Monitor.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Monitor.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\bin\Debug\WpfAnimatedGif.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\bin\Debug\WpfAnimatedGif.xml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\Alarm.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\Cafe.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\Cafe1.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\Cafe2.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\CafeLocations.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\CoffeeMaker.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\DayPlanner.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\ElderSupport.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\Microwave.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\Monitor.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\nolight.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\OnlineCafe.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\Parking.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\Receipt.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\RemoteControl.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\Result.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\SuccessCoffee.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\University.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\App.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\Alarm.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\Cafe.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\Cafe1.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\Cafe2.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\CafeLocations.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\CoffeeMaker.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\DayPlanner.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\ElderSupport.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\HomePage.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\Microwave.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\Monitor.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\nolight.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\OnlineCafe.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\Parking.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\Receipt.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\RemoteControl.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\Result.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\SuccessCoffee.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\University.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\WpfAnimatedGif.dll
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\WpfAnimatedGif.xml
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Alarm.g.cs
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Cafe.g.cs
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Cafe1.g.cs
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Cafe2.g.cs
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\CafeLocations.g.cs
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\CoffeeMaker.g.cs
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\DayPlanner.g.cs
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\ElderSupport.g.cs
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Microwave.g.cs
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Monitor.g.cs
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\nolight.g.cs
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\OnlineCafe.g.cs
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Parking.g.cs
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Receipt.g.cs
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\RemoteControl.g.cs
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Result.g.cs
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\SuccessCoffee.g.cs
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\University.g.cs
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\App.g.cs
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Alarm.baml
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Cafe.baml
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Cafe1.baml
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Cafe2.baml
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\CafeLocations.baml
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\CoffeeMaker.baml
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\DayPlanner.baml
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\ElderSupport.baml
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\HomePage.baml
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Microwave.baml
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Monitor.baml
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\nolight.baml
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\OnlineCafe.baml
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Parking.baml
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Receipt.baml
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\RemoteControl.baml
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Result.baml
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\SuccessCoffee.baml
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\University.baml
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\User\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\WpfAnimatedGif.dll
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\WpfAnimatedGif.xml
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Alarm.g.cs
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Cafe.g.cs
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Cafe1.g.cs
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Cafe2.g.cs
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\CafeLocations.g.cs
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\CoffeeMaker.g.cs
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\DayPlanner.g.cs
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\ElderSupport.g.cs
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Microwave.g.cs
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Monitor.g.cs
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\nolight.g.cs
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\OnlineCafe.g.cs
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Parking.g.cs
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Receipt.g.cs
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\RemoteControl.g.cs
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Result.g.cs
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\SuccessCoffee.g.cs
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\University.g.cs
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\App.g.cs
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Alarm.baml
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Cafe.baml
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Cafe1.baml
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Cafe2.baml
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\CafeLocations.baml
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\CoffeeMaker.baml
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\DayPlanner.baml
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\ElderSupport.baml
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\HomePage.baml
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Microwave.baml
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Monitor.baml
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\nolight.baml
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\OnlineCafe.baml
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Parking.baml
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Receipt.baml
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\RemoteControl.baml
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\Result.baml
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\SuccessCoffee.baml
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\University.baml
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\nikol\Desktop\SmartCity με trigger\SmartCity\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Monitor.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\SmartCity\obj\Debug\Monitor.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\bin\Debug\WpfAnimatedGif.dll
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\bin\Debug\WpfAnimatedGif.xml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\Alarm.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\Cafe1.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\Cafe2.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\CafeLocations.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\CoffeeMaker.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\ElderSupport.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\Microwave.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\Monitor.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\OnlineCafe.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\Parking.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\Receipt.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\RemoteControl.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\Result.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\SuccessCoffee.g.cs
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\Alarm.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\Cafe1.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\Cafe2.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\CafeLocations.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\CoffeeMaker.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\ElderSupport.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\Microwave.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\Monitor.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\OnlineCafe.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\Parking.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\Receipt.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\RemoteControl.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\Result.baml
+C:\Users\User\Desktop\τελευταιο\SmartCity\SmartCity\SmartCity\obj\Debug\SuccessCoffee.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\SmartCity\obj\Debug\SmartCity_Content.g.cs
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\WpfAnimatedGif.dll
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\WpfAnimatedGif.xml
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Alarm.g.cs
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Cafe.g.cs
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Cafe1.g.cs
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Cafe2.g.cs
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\CafeLocations.g.cs
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\CoffeeMaker.g.cs
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\DayPlanner.g.cs
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\ElderSupport.g.cs
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Microwave.g.cs
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Monitor.g.cs
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\nolight.g.cs
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\OnlineCafe.g.cs
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Parking.g.cs
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Receipt.g.cs
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\RemoteControl.g.cs
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Result.g.cs
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\SuccessCoffee.g.cs
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\University.g.cs
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\App.g.cs
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\SmartCity_Content.g.cs
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Alarm.baml
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Cafe.baml
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Cafe1.baml
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Cafe2.baml
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\CafeLocations.baml
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\CoffeeMaker.baml
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\DayPlanner.baml
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\ElderSupport.baml
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\HomePage.baml
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Microwave.baml
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Monitor.baml
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\nolight.baml
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\OnlineCafe.baml
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Parking.baml
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Receipt.baml
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\RemoteControl.baml
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Result.baml
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\SuccessCoffee.baml
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\University.baml
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\User\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\WpfAnimatedGif.dll
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\WpfAnimatedGif.xml
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Alarm.g.cs
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Cafe.g.cs
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Cafe1.g.cs
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Cafe2.g.cs
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\CafeLocations.g.cs
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\CoffeeMaker.g.cs
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\DayPlanner.g.cs
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\ElderSupport.g.cs
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Microwave.g.cs
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Monitor.g.cs
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\nolight.g.cs
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\OnlineCafe.g.cs
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Parking.g.cs
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Receipt.g.cs
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\RemoteControl.g.cs
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Result.g.cs
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\SuccessCoffee.g.cs
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\University.g.cs
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\App.g.cs
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\SmartCity_Content.g.cs
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Alarm.baml
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Cafe.baml
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Cafe1.baml
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Cafe2.baml
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\CafeLocations.baml
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\CoffeeMaker.baml
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\DayPlanner.baml
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\ElderSupport.baml
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\HomePage.baml
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Microwave.baml
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Monitor.baml
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\nolight.baml
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\OnlineCafe.baml
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Parking.baml
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Receipt.baml
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\RemoteControl.baml
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\Result.baml
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\SuccessCoffee.baml
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\University.baml
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\nikol\Desktop\SmartCity με ήχο στο HomePage και UserHomePage\SmartCity\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\bin\Debug\WpfAnimatedGif.dll
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\bin\Debug\WpfAnimatedGif.xml
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\Alarm.g.cs
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\Cafe.g.cs
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\Cafe1.g.cs
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\Cafe2.g.cs
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\CafeLocations.g.cs
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\CoffeeMaker.g.cs
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\DayPlanner.g.cs
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\ElderSupport.g.cs
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\Microwave.g.cs
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\Monitor.g.cs
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\nolight.g.cs
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\OnlineCafe.g.cs
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\Parking.g.cs
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\Receipt.g.cs
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\RemoteControl.g.cs
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\Result.g.cs
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\SuccessCoffee.g.cs
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\University.g.cs
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\App.g.cs
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\SmartCity_Content.g.cs
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\Alarm.baml
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\Cafe.baml
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\Cafe1.baml
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\Cafe2.baml
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\CafeLocations.baml
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\CoffeeMaker.baml
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\DayPlanner.baml
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\ElderSupport.baml
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\HomePage.baml
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\Microwave.baml
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\Monitor.baml
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\nolight.baml
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\OnlineCafe.baml
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\Parking.baml
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\Receipt.baml
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\RemoteControl.baml
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\Result.baml
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\SuccessCoffee.baml
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\University.baml
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\User\Desktop\SmartCity τελευταιο\SmartCity\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\Microwave.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\Monitor.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\Parking.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\SmartCity_Content.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\Microwave.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\Monitor.baml
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\Parking.baml
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\bin\Debug\WpfAnimatedGif.dll
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\bin\Debug\WpfAnimatedGif.xml
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Alarm.g.cs
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Cafe.g.cs
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Cafe1.g.cs
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Cafe2.g.cs
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\CafeLocations.g.cs
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\CoffeeMaker.g.cs
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\DayPlanner.g.cs
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\ElderSupport.g.cs
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Microwave.g.cs
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Monitor.g.cs
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\nolight.g.cs
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\OnlineCafe.g.cs
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Parking.g.cs
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Receipt.g.cs
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\RemoteControl.g.cs
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Result.g.cs
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\SuccessCoffee.g.cs
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\University.g.cs
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\App.g.cs
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\SmartCity_Content.g.cs
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Alarm.baml
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Cafe.baml
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Cafe1.baml
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Cafe2.baml
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\CafeLocations.baml
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\CoffeeMaker.baml
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\DayPlanner.baml
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\ElderSupport.baml
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\HomePage.baml
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Microwave.baml
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Monitor.baml
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\nolight.baml
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\OnlineCafe.baml
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Parking.baml
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Receipt.baml
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\RemoteControl.baml
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Result.baml
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\SuccessCoffee.baml
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\University.baml
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\nikol\Desktop\SmartCity με ακυρώσεις\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\bin\Debug\WpfAnimatedGif.dll
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\bin\Debug\WpfAnimatedGif.xml
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Alarm.g.cs
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Cafe.g.cs
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Cafe1.g.cs
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Cafe2.g.cs
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\CafeLocations.g.cs
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\CoffeeMaker.g.cs
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\DayPlanner.g.cs
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\ElderSupport.g.cs
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Microwave.g.cs
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Monitor.g.cs
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\nolight.g.cs
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\OnlineCafe.g.cs
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Parking.g.cs
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Receipt.g.cs
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\RemoteControl.g.cs
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Result.g.cs
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\SuccessCoffee.g.cs
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\University.g.cs
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\App.g.cs
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\SmartCity_Content.g.cs
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Alarm.baml
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Cafe.baml
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Cafe1.baml
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Cafe2.baml
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\CafeLocations.baml
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\CoffeeMaker.baml
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\DayPlanner.baml
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\ElderSupport.baml
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\HomePage.baml
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Microwave.baml
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Monitor.baml
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\nolight.baml
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\OnlineCafe.baml
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Parking.baml
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Receipt.baml
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\RemoteControl.baml
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\Result.baml
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\SuccessCoffee.baml
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\University.baml
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\User\Desktop\edw\SmartCity με ακυρώσεις\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\nikol\Desktop\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\Alarm.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\ElderSupport.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\Microwave.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\Monitor.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\Parking.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\Result.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\SuccessCoffee.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\SmartCity_Content.g.cs
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\Alarm.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\ElderSupport.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\Microwave.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\Monitor.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\Parking.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\Result.baml
+C:\Users\nikol\Desktop\SmartCity\SmartCity\obj\Debug\SuccessCoffee.baml
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\bin\Debug\WpfAnimatedGif.dll
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\bin\Debug\WpfAnimatedGif.xml
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\Alarm.g.cs
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\Cafe.g.cs
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\Cafe1.g.cs
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\Cafe2.g.cs
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\CafeLocations.g.cs
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\CoffeeMaker.g.cs
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\DayPlanner.g.cs
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\ElderSupport.g.cs
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\Microwave.g.cs
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\Monitor.g.cs
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\nolight.g.cs
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\OnlineCafe.g.cs
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\Parking.g.cs
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\Receipt.g.cs
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\RemoteControl.g.cs
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\Result.g.cs
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\SuccessCoffee.g.cs
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\University.g.cs
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\App.g.cs
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\SmartCity_Content.g.cs
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\Alarm.baml
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\Cafe.baml
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\Cafe1.baml
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\Cafe2.baml
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\CafeLocations.baml
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\CoffeeMaker.baml
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\DayPlanner.baml
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\ElderSupport.baml
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\HomePage.baml
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\Microwave.baml
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\Monitor.baml
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\nolight.baml
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\OnlineCafe.baml
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\Parking.baml
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\Receipt.baml
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\RemoteControl.baml
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\Result.baml
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\SuccessCoffee.baml
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\University.baml
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\nikol\Desktop\SmartCity - Copy\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\Water_heater.g.cs
+C:\Users\User\Desktop\SmartCity\SmartCity\obj\Debug\Water_heater.baml
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\WpfAnimatedGif.dll
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\WpfAnimatedGif.xml
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Alarm.g.cs
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Cafe.g.cs
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Cafe1.g.cs
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Cafe2.g.cs
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\CafeLocations.g.cs
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\CoffeeMaker.g.cs
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\DayPlanner.g.cs
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\ElderSupport.g.cs
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Microwave.g.cs
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Monitor.g.cs
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\nolight.g.cs
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\OnlineCafe.g.cs
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Parking.g.cs
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Receipt.g.cs
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\RemoteControl.g.cs
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Result.g.cs
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\SuccessCoffee.g.cs
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\University.g.cs
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Water_heater.g.cs
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\App.g.cs
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\SmartCity_Content.g.cs
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Alarm.baml
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Cafe.baml
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Cafe1.baml
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Cafe2.baml
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\CafeLocations.baml
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\CoffeeMaker.baml
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\DayPlanner.baml
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\ElderSupport.baml
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\HomePage.baml
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Microwave.baml
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Monitor.baml
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\nolight.baml
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\OnlineCafe.baml
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Parking.baml
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Receipt.baml
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\RemoteControl.baml
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Result.baml
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\SuccessCoffee.baml
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\University.baml
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Water_heater.baml
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\User\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\WpfAnimatedGif.dll
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\WpfAnimatedGif.xml
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Alarm.g.cs
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Cafe.g.cs
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Cafe1.g.cs
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Cafe2.g.cs
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\CafeLocations.g.cs
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\CoffeeMaker.g.cs
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\DayPlanner.g.cs
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\ElderSupport.g.cs
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Microwave.g.cs
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Monitor.g.cs
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\nolight.g.cs
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\OnlineCafe.g.cs
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Parking.g.cs
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Receipt.g.cs
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\RemoteControl.g.cs
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Result.g.cs
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\SuccessCoffee.g.cs
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\University.g.cs
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Water_heater.g.cs
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\App.g.cs
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\SmartCity_Content.g.cs
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Alarm.baml
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Cafe.baml
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Cafe1.baml
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Cafe2.baml
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\CafeLocations.baml
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\CoffeeMaker.baml
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\DayPlanner.baml
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\ElderSupport.baml
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\HomePage.baml
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Microwave.baml
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Monitor.baml
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\nolight.baml
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\OnlineCafe.baml
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Parking.baml
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Receipt.baml
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\RemoteControl.baml
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Result.baml
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\SuccessCoffee.baml
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\University.baml
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\Water_heater.baml
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\nikol\Desktop\SmartCity ftiakse to water heat kai to coffemaker omorfa\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\SmartCity.pdb
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\bin\Debug\SmartCity.exe
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\bin\Debug\SmartCity.pdb
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\bin\Debug\WpfAnimatedGif.dll
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\bin\Debug\WpfAnimatedGif.xml
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\SmartCity.csprojResolveAssemblyReference.cache
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\Alarm.g.cs
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\Cafe.g.cs
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\Cafe1.g.cs
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\Cafe2.g.cs
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\CafeLocations.g.cs
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\CoffeeMaker.g.cs
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\DayPlanner.g.cs
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\ElderSupport.g.cs
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\HomePage.g.cs
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\MainWindow.g.cs
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\Microwave.g.cs
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\Monitor.g.cs
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\nolight.g.cs
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\OnlineCafe.g.cs
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\Parking.g.cs
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\Receipt.g.cs
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\RemoteControl.g.cs
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\Result.g.cs
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\SuccessCoffee.g.cs
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\S_P_MME.g.cs
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\University.g.cs
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\UserHomePage.g.cs
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\Water_heater.g.cs
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\App.g.cs
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\SmartCity_Content.g.cs
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\SmartCity_MarkupCompile.cache
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\SmartCity_MarkupCompile.lref
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\Alarm.baml
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\Cafe.baml
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\Cafe1.baml
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\Cafe2.baml
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\CafeLocations.baml
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\CoffeeMaker.baml
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\DayPlanner.baml
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\ElderSupport.baml
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\HomePage.baml
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\MainWindow.baml
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\Microwave.baml
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\Monitor.baml
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\nolight.baml
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\OnlineCafe.baml
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\Parking.baml
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\Receipt.baml
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\RemoteControl.baml
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\Result.baml
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\SuccessCoffee.baml
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\S_P_MME.baml
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\University.baml
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\UserHomePage.baml
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\Water_heater.baml
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\SmartCity.g.resources
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\SmartCity.Properties.Resources.resources
+C:\Users\nikol\Desktop\SmartCity φτιαγμένο όσο μπορούσα δεδομένου ότι δεν το έχω και πολύ\SmartCity\obj\Debug\SmartCity.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\Alarm.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\ElderSupport.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\Microwave.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\Monitor.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\Parking.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\Result.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\SuccessCoffee.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\Water_heater.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\SmartCity_Content.g.cs
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\Alarm.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\ElderSupport.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\Microwave.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\Monitor.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\Parking.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\Result.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\SuccessCoffee.baml
+C:\Users\User\Desktop\SmartCity - Αντίγραφο\SmartCity\obj\Debug\Water_heater.baml
+C:\Users\User\Desktop\SmartCity simple help\SmartCity\bin\Debug\SmartCity.exe.config
+C:\Users\User\Desktop\SmartCity simple help\SmartCity\obj\Debug\SmartCity.exe
+C:\Users\User\Desktop\SmartCity simple help\SmartCity\obj\Debug\SmartCity.pdb

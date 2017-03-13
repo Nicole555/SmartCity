@@ -1,0 +1,86 @@
+﻿<Page x:Class="SmartCity.Water_heater"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:gif="http://wpfanimatedgif.codeplex.com"
+      xmlns:local="clr-namespace:SmartCity"
+      mc:Ignorable="d" 
+      d:DesignHeight="717" d:DesignWidth="1300"
+      Title="Water_heater">
+    <Page.Background>
+        <ImageBrush ImageSource="photo.jpg"/>
+    </Page.Background>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="87*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="98*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="213*"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="928*"/>
+        </Grid.ColumnDefinitions>
+
+        <Button x:Name="on" Margin="19.525,15,11,16.156" BorderBrush="Transparent" Click="on_Click" Visibility="Hidden" Grid.Column="1" Grid.Row="1" Width="120" Height="120">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="on_png" Source="on.png" Stretch="Fill" Width="115" Height="115"/>
+        </Button>
+        <Button x:Name="off" Margin="16.525,15,11,10.156" BorderBrush="Transparent" Click="off_Click" RenderTransformOrigin="1.038,0.899" Grid.Column="1" Grid.Row="1" Width="120" Height="120">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="off_png" Height="115" Source="off.png" Stretch="Fill" Width="115"/>
+        </Button>
+        <Image x:Name="gif" gif:ImageBehavior.AutoStart="False" gif:ImageBehavior.AnimatedSource="thermometer.gif" gif:ImageBehavior.RepeatBehavior="1x" Margin="346.988,43,103.679,93.556" Grid.Column="2" Grid.RowSpan="3" />
+        <Button x:Name="back1" Margin="0,10,96,0" BorderBrush="Transparent" Click="back1_Click" HorizontalAlignment="Right" Height="66" VerticalAlignment="Top" Width="66" Grid.Column="2">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="UIElement.PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="back_png" Source="back.png" Stretch="Fill" Width="60" Height="60"/>
+        </Button>
+        <Button x:Name="exit" Margin="0,10,6,0" BorderBrush="Transparent" Click="exit_Click" HorizontalAlignment="Right" Height="66" VerticalAlignment="Top" Width="70" Grid.Column="2">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="UIElement.PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="xclose_icon_png_pagespeed_ic_a9KAtgUF_Y_png" Source="xclose-icon.png.pagespeed.ic.a9KAtgUF_Y.png" Stretch="Fill" Height="60" RenderTransformOrigin="0.376,1.188" d:LayoutOverrides="VerticalAlignment" Width="60"/>
+        </Button>
+        <Image x:Name="tel_png" Grid.Column="2" Margin="0,-93.026,276.701,136.665" Grid.Row="1" Source="tel.png" Stretch="Fill" Grid.RowSpan="2" HorizontalAlignment="Right" Width="129.704" Visibility="Hidden"/>
+        <TextBlock x:Name="textBlock" Grid.ColumnSpan="2" Margin="77.68,43,-254.049,106.17" TextWrapping="Wrap" Foreground="#FFFFFFFF" FontSize="18.667"><Run FontSize="21.333" Text="Πιέστε το κουμπί "/><Run FontSize="21.333" Text="on/off "/><Run FontSize="21.333" Text="για να ενεργοποιήσετε το Θερμοσίφωνα"/><Run Text="."/></TextBlock>
+        <TextBlock x:Name="textBlock1" Grid.ColumnSpan="2" Margin="57.118,101.373,-210.64,93.556" Grid.Row="2" TextWrapping="Wrap" Text="Το νερό ζεσταίνεται!" Foreground="White" FontSize="21.333" Visibility="Hidden"/>
+    </Grid>
+</Page>

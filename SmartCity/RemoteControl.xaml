@@ -1,0 +1,160 @@
+﻿<Page x:Class="SmartCity.RemoteControl"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:gif="http://wpfanimatedgif.codeplex.com"
+      xmlns:local="clr-namespace:SmartCity"
+      mc:Ignorable="d" 
+      d:DesignHeight="717" d:DesignWidth="1300"
+      Title="RemoteControl">
+    <Page.Resources>
+        <Storyboard x:Key="OnMouseMove1">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[2].(RotateTransform.Angle)" Storyboard.TargetName="button">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.1" Value="-8.919"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="-14.313"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="-3.639"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.4" Value="5.065"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="11.327"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.6" Value="15.714"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.7" Value="8.871"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.8" Value="0.794"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="OnMouseMove2">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[2].(RotateTransform.Angle)" Storyboard.TargetName="microwave">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.1" Value="-9.018"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="-15.062"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="-1.561"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.4" Value="8.365"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="15.833"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.6" Value="20.242"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.7" Value="6.353"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.8" Value="0.491"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="OnMouseEnter1">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[2].(RotateTransform.Angle)" Storyboard.TargetName="water_heater">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.1" Value="-14.001"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="-21.315"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="-10.51"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.4" Value="6.935"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="14.987"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.6" Value="19.567"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.7" Value="17.704"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.8" Value="9.037"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.9" Value="-0.304"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </Page.Resources>
+    <Page.Background>
+        <ImageBrush ImageSource="kitchen.jpg"/>
+    </Page.Background>
+    <Page.Triggers>
+        <EventTrigger RoutedEvent="UIElement.MouseEnter" SourceName="button">
+            <BeginStoryboard Storyboard="{StaticResource OnMouseMove1}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="UIElement.MouseEnter" SourceName="microwave">
+            <BeginStoryboard x:Name="OnMouseMove2_BeginStoryboard" Storyboard="{StaticResource OnMouseMove2}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="UIElement.MouseEnter" SourceName="water_heater">
+            <BeginStoryboard x:Name="OnMouseEnter1_BeginStoryboard" Storyboard="{StaticResource OnMouseEnter1}"/>
+        </EventTrigger>
+    </Page.Triggers>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="button" Content="coffee maker" Margin="169.968,154.106,0,307.04" FontFamily="Showcard Gothic" Click="button_Click" Grid.Row="1" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Width="217.007" Background="#FFF0B64A">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+
+        <Button x:Name="exit" Margin="9.947,10,10.053,9.894" BorderBrush="Transparent" Click="exit_Click" Width="70" Height="70" Grid.Column="2">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="xclose_icon_png_pagespeed_ic_a9KAtgUF_Y_png" Source="xclose-icon.png.pagespeed.ic.a9KAtgUF_Y.png" Stretch="Fill" Height="60" RenderTransformOrigin="0.376,1.188" d:LayoutOverrides="VerticalAlignment" Width="60"/>
+        </Button>
+        <Button x:Name="back1" Margin="15.567,10,13.433,9.894" BorderBrush="Transparent" Height="70" Click="back1_Click" d:LayoutOverrides="HorizontalAlignment" Width="70" Grid.Column="1">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="back_png" Source="back.png" Stretch="Fill" Width="60" Height="60"/>
+        </Button>
+        <Button x:Name="microwave" Content="Microwave" Margin="512.269,154.106,381.724,307.04" FontFamily="Showcard Gothic" Click="microwave_Click" Grid.Row="1" RenderTransformOrigin="0.5,0.5" Background="#FFF0B64A">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+        <Button x:Name="water_heater" Content="water heater" Margin="0,154.106,0,307.04" FontFamily="Showcard Gothic" Click="water_heater_Click" Grid.Row="1" RenderTransformOrigin="0.5,0.5" Background="#FFF0B64A" HorizontalAlignment="Right" Width="217.007">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="UIElement.PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+    </Grid>
+</Page>

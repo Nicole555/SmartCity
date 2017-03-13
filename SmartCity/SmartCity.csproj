@@ -1,0 +1,482 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9E27D8FB-0365-4800-8A62-7A28CC6B8CAC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SmartCity</RootNamespace>
+    <AssemblyName>SmartCity</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WpfAnimatedGif, Version=1.4.14.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\WpfAnimatedGif.1.4.14\lib\net\WpfAnimatedGif.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock, Version=3.0.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.0\lib\net40\Xceed.Wpf.AvalonDock.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock.Themes.Aero, Version=3.0.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.0\lib\net40\Xceed.Wpf.AvalonDock.Themes.Aero.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock.Themes.Metro, Version=3.0.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.0\lib\net40\Xceed.Wpf.AvalonDock.Themes.Metro.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock.Themes.VS2010, Version=3.0.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.0\lib\net40\Xceed.Wpf.AvalonDock.Themes.VS2010.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xceed.Wpf.DataGrid, Version=3.0.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.0\lib\net40\Xceed.Wpf.DataGrid.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xceed.Wpf.Toolkit, Version=3.0.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.0\lib\net40\Xceed.Wpf.Toolkit.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Alarm.xaml.cs">
+      <DependentUpon>Alarm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Cafe.xaml.cs">
+      <DependentUpon>Cafe.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Cafe1.xaml.cs">
+      <DependentUpon>Cafe1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Cafe2.xaml.cs">
+      <DependentUpon>Cafe2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CafeLocations.xaml.cs">
+      <DependentUpon>CafeLocations.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CoffeeMaker.xaml.cs">
+      <DependentUpon>CoffeeMaker.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DayPlanner.xaml.cs">
+      <DependentUpon>DayPlanner.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ElderSupport.xaml.cs">
+      <DependentUpon>ElderSupport.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Microwave.xaml.cs">
+      <DependentUpon>Microwave.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Monitor.xaml.cs">
+      <DependentUpon>Monitor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="nolight.xaml.cs">
+      <DependentUpon>nolight.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="OnlineCafe.xaml.cs">
+      <DependentUpon>OnlineCafe.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Parking.xaml.cs">
+      <DependentUpon>Parking.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Receipt.xaml.cs">
+      <DependentUpon>Receipt.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RemoteControl.xaml.cs">
+      <DependentUpon>RemoteControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Result.xaml.cs">
+      <DependentUpon>Result.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SuccessCoffee.xaml.cs">
+      <DependentUpon>SuccessCoffee.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="S_P_MME.xaml.cs">
+      <DependentUpon>S_P_MME.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="University.xaml.cs">
+      <DependentUpon>University.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserHomePage.xaml.cs">
+      <DependentUpon>UserHomePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Water_heater.xaml.cs">
+      <DependentUpon>Water_heater.xaml</DependentUpon>
+    </Compile>
+    <Page Include="Alarm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Cafe.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Cafe1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Cafe2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CafeLocations.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CoffeeMaker.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DayPlanner.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ElderSupport.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="HomePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="HomePage.xaml.cs">
+      <DependentUpon>HomePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Microwave.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Monitor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="nolight.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="OnlineCafe.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Parking.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Receipt.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RemoteControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Result.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SuccessCoffee.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="S_P_MME.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="University.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserHomePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Water_heater.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="abstract-user-flat-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icon-low-employee-turn-over.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Σύνταγμα-Πανεπιστήμιο Πειραιά ΜΜΜ.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="16522127_10209978128543717_1210527705_o.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="city.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="calendar-image-png-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="home-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="elderly-people-294088.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="ideas-light-bulb-icon-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="speech-bubble-md.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="14861899036978.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Σύνταγμα-Πανεπιστήμιο Πειραιά ποδια.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Σύνταγμα-Πανεπιστήμιο-Συγγρου-Ποσειδώνος-8 αυτοκινητο.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="owl.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="xclose-icon.png.pagespeed.ic.a9KAtgUF_Y.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="16522541_10209987059686990_1282963959_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="financial-planning-background.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icons8-Windows-8-Computer-Hardware-Shutdown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="coffee.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="belleamie.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="gazicollege.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="lostre.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Untitled-12-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Add_to_Cart-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="remove-icon-png-25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icon_image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="city.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="belleamie.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="gazi college.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="lostre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="belle-car.PNG" />
+    <Resource Include="Belle-MMM.PNG" />
+    <Resource Include="Belle-pezh.PNG" />
+    <Resource Include="College-Car.PNG" />
+    <Resource Include="College-MMM.PNG" />
+    <Resource Include="College-Pezh.PNG" />
+    <Resource Include="Lostre-car.PNG" />
+    <Resource Include="Lostre-MMM.PNG" />
+    <Resource Include="Lostre-pezh.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Pic300010001.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="711eadc0b06e9acb9d7caad3450eb265.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="alarm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="surgeon-animation-1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="giphy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="ambulance.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="clip-art-categories-Eq21fB-clipart.png" />
+    <Resource Include="red-car-top-view-hi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="office.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="monitor1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="monitor2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="monitor3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="monitor4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="monitor5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="monitor6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="ladyeat.gif" />
+    <Resource Include="ladyexc.gif" />
+    <Resource Include="ladytv.gif" />
+    <Resource Include="manbed.gif" />
+    <Resource Include="manwalk.gif" />
+    <Resource Include="tecman.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="lights.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="parking-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Brick-wall-background-04-HD-Images-41303.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="cloth.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="alarmclick.wav" />
+    <Content Include="click.wav" />
+    <Resource Include="tel.png" />
+    <Resource Include="thermometer.gif" />
+    <Resource Include="off.png" />
+    <Resource Include="on.png" />
+    <Resource Include="photo.jpg" />
+    <Resource Include="cup.png" />
+    <Resource Include="cm.png" />
+    <Resource Include="Help.png" />
+    <Content Include="lights.wav" />
+    <Resource Include="water.png" />
+    <Resource Include="sun.gif" />
+    <Resource Include="kitchen.jpg" />
+    <Resource Include="doctors-office.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,22 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Manual.chm
+Contents file=Table of Contents.hhc
+Default topic=HomePage.htm
+Display compile progress=No
+Index file=Index.hhk
+Language=0x408 Ελληνικά (Ελλάδας)
+Title=Manual
+
+
+[FILES]
+DayPlanner.html
+ElderSupport.htm
+Employee.htm
+HomePage.htm
+OnlineCafe.htm
+RemoteControl.html
+User.htm
+
+[INFOTYPES]
+

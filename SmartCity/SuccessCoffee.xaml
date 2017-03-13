@@ -1,0 +1,45 @@
+﻿<Page x:Class="SmartCity.SuccessCoffee"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SmartCity"
+      mc:Ignorable="d" 
+      d:DesignHeight="717" d:DesignWidth="1300"
+      Title="SuccessCoffee">
+    <Page.Background>
+        <ImageBrush ImageSource="Pic300010001.jpg"/>
+    </Page.Background>
+
+    <Grid>
+        <Label x:Name="label" Content="Επιτυχία!&#xD;&#xA;Ο καφές σας θα σας &#xD;&#xA;περιμένει στον γυρισμό!" Margin="120.717,0,0,10" FontSize="48" FontStyle="Italic" FontFamily="Sylfaen" Height="265.96" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="502.993"/>
+        <Image x:Name="_711eadc0b06e9acb9d7caad3450eb265_png" Margin="561,0,601,162" Source="711eadc0b06e9acb9d7caad3450eb265.png" Stretch="Fill" Height="189" VerticalAlignment="Bottom"/>
+        <Button x:Name="back1" Margin="0,10,96,0" BorderBrush="Transparent" Click="back1_Click" HorizontalAlignment="Right" Height="66" VerticalAlignment="Top" Width="66">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="back_png" Source="back.png" Stretch="Fill" Width="60" Height="60"/>
+        </Button>
+        <Button x:Name="exit" Margin="0,10,6,0" BorderBrush="Transparent" Click="exit_Click" HorizontalAlignment="Right" Height="66" VerticalAlignment="Top" Width="70">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="xclose_icon_png_pagespeed_ic_a9KAtgUF_Y_png" Source="xclose-icon.png.pagespeed.ic.a9KAtgUF_Y.png" Stretch="Fill" Height="60" RenderTransformOrigin="0.376,1.188" d:LayoutOverrides="VerticalAlignment" Width="60"/>
+        </Button>
+
+    </Grid>
+</Page>

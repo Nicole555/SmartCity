@@ -1,0 +1,100 @@
+﻿<Page x:Class="SmartCity.ElderSupport"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:toolkit="http://schemas.xceed.com/wpf/xaml/toolkit"
+      xmlns:local="clr-namespace:SmartCity"
+      mc:Ignorable="d" 
+      d:DesignHeight="717" d:DesignWidth="1300"
+      Title="ElderSupport" Background="#FFF5EDED" MouseMove="ElderSupport_MouseMove">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="101*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="34*"/>
+            <RowDefinition Height="48*"/>
+            <RowDefinition Height="105*"/>
+            <RowDefinition Height="66*"/>
+            <RowDefinition Height="83*"/>
+            <RowDefinition Height="214*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="168*"/>
+            <ColumnDefinition Width="41*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="textBox" MaxLength="2" Margin="190.849,-15.548,213.705,19.908" TextWrapping="Wrap" FontSize="24" RenderTransformOrigin="1.617,0.876" PreviewTextInput="textBox_PreviewTextInput" Grid.Row="3"/>
+        <TextBox x:Name="textBox1" MaxLength="2" Margin="190.849,49.089,213.705,9.041" TextWrapping="Wrap" FontSize="24" PreviewTextInput="textBox1_PreviewTextInput" Grid.Row="4"/>
+        <TextBox x:Name="textBox2" MaxLength="3" Margin="190.849,12.88,213.705,22.895" TextWrapping="Wrap" FontSize="24" RenderTransformOrigin="0.659,2.617" PreviewTextInput="textBox2_PreviewTextInput" Grid.Row="6"/>
+        <Label x:Name="label" Content="Πίεση Μεγάλη" Margin="138,14.999,145.443,-5.198" FontSize="24" Grid.Row="1"/>
+        <Label x:Name="label1" Content="Πίεση Μικρή" Margin="138,-4.311,170.073,0" VerticalAlignment="Top" FontSize="24" d:LayoutOverrides="Width" Grid.Row="4"/>
+        <Label x:Name="label2" Content="Σφυγμοί" Margin="158.378,17.039,197.075,0" VerticalAlignment="Top" FontSize="24" d:LayoutOverrides="Width" Grid.Row="5"/>
+        <Label x:Name="label3" Content="Ημερήσιες Μετρήσεις" Margin="94.369,0,61.571,-3.592" FontSize="30" d:LayoutOverrides="Width" VerticalAlignment="Bottom"/>
+        <Label x:Name="label5" Content="Πώς νιώθετε σήμερα;" HorizontalAlignment="Left" Margin="67.702,0,0,-3.592" FontSize="30" Grid.Column="1" VerticalAlignment="Bottom"/>
+        <RadioButton x:Name="kala" Content="Καλά" Margin="148.343,-10.825,116.569,9.419" FontSize="24" Grid.Column="1" Grid.Row="2"/>
+        <RadioButton x:Name="metria" Content="Μέτρια" Margin="148.343,11.762,175.069,-5.652" FontSize="24" RenderTransformOrigin="0.457,-0.286" Grid.Column="1" Grid.Row="3"/>
+        <RadioButton x:Name="asxima" Content="Άσχημα" Margin="148.343,26.589,175.069,40.081" FontSize="24" Grid.Column="1" Grid.Row="4"/>
+        <Label x:Name="label6" Content="Επιλέξτε ποια από &#xD;&#xA;τα ακόλουθα φάρμακα&#xD;&#xA; χρειάζεστε για να&#xD;&#xA; σας αποστείλουμε:" HorizontalAlignment="Right" Margin="0,-24.527,2.75,10" FontSize="24" Grid.Column="2" Grid.RowSpan="3" Grid.Row="1"/>
+        <CheckBox x:Name="checkBox" Content=" Keppra" Margin="126.678,7.612,77.75,0" VerticalAlignment="Top" Height="30" FontSize="24" Grid.Column="2" Grid.Row="4" />
+        <CheckBox x:Name="checkBox1" Content=" Valium" Margin="126.678,0,77.75,5.071" FontSize="24" Grid.Column="2" Grid.Row="4" Height="29.87" VerticalAlignment="Bottom"/>
+        <CheckBox x:Name="checkBox2" Content=" Ponstan" Margin="126.678,28.962,77.75,0" VerticalAlignment="Top" FontSize="24" Height="30" Grid.Column="2" Grid.Row="5" RenderTransformOrigin="0.451,1.165"/>
+        <CheckBox x:Name="checkBox3" Content=" Duren" Margin="126.678,0,77.75,22.895" VerticalAlignment="Bottom" FontSize="24" Height="30" Grid.Column="2" Grid.Row="6" RenderTransformOrigin="0.495,1.104"/>
+        <CheckBox x:Name="checkBox4" Content=" Plavix" Margin="126.678,10.674,77.75,0" FontSize="24" Grid.Column="2" Grid.Row="7" Height="30.13" VerticalAlignment="Top"/>
+        <Button x:Name="button" Content="Υποβολή" Margin="148.343,-26.995,160.979,0" FontSize="24" Foreground="#FFF7F1F1" Background="#FF1DAA9D" Click="button_Click" Grid.Column="1" Grid.Row="7" Height="67.799" VerticalAlignment="Top">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+
+        <Button x:Name="button1" Margin="28.369,22.694,197.075,45.407" BorderBrush="Transparent" Click="button1_Click" Grid.Row="7">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Black"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="ambulance_png" Source="ambulance.png" Stretch="Fill" Width="219.213" Height="136.133"/>
+        </Button>
+        <Button x:Name="back" Margin="0,10,14.786,24.527" BorderBrush="Transparent" HorizontalAlignment="Right" Width="70" Click="back_Click" Grid.Column="2">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="back_png" Height="57" Source="back.png" Stretch="Fill" Width="57"/>
+        </Button>
+        <Button x:Name="exit" Margin="2.25,10,10,24.527" BorderBrush="Transparent" Click="exit_Click" Grid.Column="3">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="xclose_icon_png_pagespeed_ic_a9KAtgUF_Y_png" Source="xclose-icon.png.pagespeed.ic.a9KAtgUF_Y.png" Stretch="Fill" d:LayoutOverrides="VerticalAlignment, LeftMargin, RightMargin, TopMargin, BottomMargin" RenderTransformOrigin="0.542,0.737" Height="57" Width="57"/>
+        </Button>
+
+
+    </Grid>
+</Page>

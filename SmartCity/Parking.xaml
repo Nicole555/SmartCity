@@ -1,0 +1,107 @@
+﻿<Page x:Name="page" x:Class="SmartCity.Parking"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SmartCity"
+      mc:Ignorable="d" 
+     d:DesignHeight="717" d:DesignWidth="1300"
+      Title="Parking">
+    <Page.Resources>
+        <Storyboard x:Key="Storyboard1">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="red_car_top_view_hi_png">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="220"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="220"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3" Value="348"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="348"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="red_car_top_view_hi_png">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-4"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="-4"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3" Value="-184"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="-184"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[2].(RotateTransform.Angle)" Storyboard.TargetName="red_car_top_view_hi_png">
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2" Value="-50.754"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3" Value="-50.754"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="-90.906"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </Page.Resources>
+    <Page.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource Storyboard1}"/>
+        </EventTrigger>
+    </Page.Triggers>
+    <Page.Background>
+        <ImageBrush ImageSource="clip-art-categories-Eq21fB-clipart.png"/>
+    </Page.Background>
+
+    <Grid>
+        <Image x:Name="red_car_top_view_hi_png" Margin="34,0,0,27" Source="red-car-top-view-hi.png" Stretch="Fill" HorizontalAlignment="Left" Width="234" Height="138" VerticalAlignment="Bottom" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <TextBlock x:Name="textBlock" Height="66" Margin="320,34,568,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="21.333"><Run Text="Θέλετε να πάτε σε καφετέρια"/><Run Text=";"/></TextBlock>
+        <Button x:Name="yes" Content="Ναι" HorizontalAlignment="Left" Height="33" Margin="320,87,0,0" VerticalAlignment="Top" Width="100" Background="#FF476595" Click="yes_Click">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+        <Button x:Name="no" Content="Όχι" HorizontalAlignment="Left" Height="33" Margin="510,87,0,0" VerticalAlignment="Top" Width="100" Background="#FF476595" Click="no_Click">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+
+        <Button x:Name="back" Margin="0,10,100,0" BorderBrush="Transparent" HorizontalAlignment="Right" Height="66" VerticalAlignment="Top" Width="66" Click="back_Click">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="back_png" Height="60" Source="back.png" Stretch="Fill" Width="60"/>
+        </Button>
+        <Button x:Name="exit" Margin="0,10,10,0" BorderBrush="Transparent" HorizontalAlignment="Right" Height="66" VerticalAlignment="Top" Width="70" Click="exit_Click">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="xclose_icon_png_pagespeed_ic_a9KAtgUF_Y_png" Source="xclose-icon.png.pagespeed.ic.a9KAtgUF_Y.png" Stretch="Fill" d:LayoutOverrides="VerticalAlignment, LeftMargin, RightMargin, TopMargin, BottomMargin" RenderTransformOrigin="0.542,0.737" Height="60" Width="60"/>
+        </Button>
+        <Label x:Name="label" Content="Θα βρείτε να παρκάρετε πάνω στην Καραολή και Δημητρίου&#xD;&#xA;" HorizontalAlignment="Left" Margin="193,184.555,0,0" VerticalAlignment="Top" Height="59.624" Width="706.613" FontSize="24"/>
+    </Grid>
+</Page>
+    

@@ -1,0 +1,106 @@
+﻿<Page x:Class="SmartCity.S_P_MME"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SmartCity"
+      mc:Ignorable="d" 
+      d:DesignHeight="717" d:DesignWidth="1300"
+      Title="S_P_MME" Width="Auto" Height="Auto">
+    <Page.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FFF3F7F9" Offset="0"/>
+            <GradientStop Color="#FF33ADFF" Offset="1"/>
+        </LinearGradientBrush>
+    </Page.Background>
+
+    <Grid Margin="10,10,10,0" Background="#00000000">
+        <Image x:Name="spmmm" Margin="290.457,87.163,206.93,147.636" Source="Σύνταγμα-Πανεπιστήμιο Πειραιά ΜΜΜ.png" Stretch="Fill" Visibility="Hidden"/>
+
+
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Αναμενόμενη διάρκεια διασδρομής 41 λεπτά&#xA;&#xA;ΣΥΝΤΑΓΜΑ&#xA;Πεζή:&#xA;Περίπου 2 λεπτά,&#xA;84 μ&#xA;&#xA;10:06 π.μ.&#xA;ΣΤ.ΣΥΝΤΑΓΜΑΤΟΣ&#xA;&#xA;10:08 π.μ.&#xA;Υπόγειος σιδηρόδρομος Μ3&#xA;ΑΕΡΟΔΡΟΜΙΟ - ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΑΓΙΑ ΜΑΡΙΝΑ&#xA;2 λεπτ. (χωρίς στάσεις) &#xA;&#xA;10:12 π.μ.&#xA;Monastiraki Metro Station&#xA;Υπόγειος σιδηρόδρομος Μ1 ΚΗΦΙΣΙΑ - ΠΕΙΡΑΙΑΣ&#xA;16 λεπτ. (7 στάσεις) &#xA;&#xA;10:28 π.μ.&#xA;Πειραιά&#xA;Πεζή Περίπου 17 λεπτ. , 1,2 χλμ.&#xA;&#xA;Προχωρήστε ανατολικά από Πλ. Οδησσού προς Αλιπέδου&#xA;Στροφή δεξιά στη Ναυαρίνου&#xA;Στροφή αριστερά στη Λουδοβίκου&#xA;Στροφή δεξιά στην Κέκροπος&#xA;Συνεχίστε προς Καραολή και Δημητρίου&#xA;Στροφή δεξιά στη Δεληγιώργη&#xA;Στρίψτε αριστερά&#xA;&#xA;Ο προορισμός σας θα βρίσκεται στα αριστερά σας&#xA;&#xA;10:45 π.μ.&#xA;Πανεπιστήμιο Πειραιά και Οικονομικό Πανεπιστήμιο Πειραιά" Width="190.5" ScrollViewer.HorizontalScrollBarVisibility="Auto"
+         IsReadOnly="True"
+          ScrollViewer.VerticalScrollBarVisibility="Auto"
+         ScrollViewer.CanContentScroll="True" Margin="53.901,84.213,0,117.813" FontSize="16" Visibility="Hidden"/>
+        <TextBox x:Name="textBoxx" Height="38" Margin="53.901,0,0,28.3" TextWrapping="Wrap" Text="θα πάτε σε κάποια καφετέρια μετά από την σχολή;" VerticalAlignment="Bottom" FontSize="20" IsReadOnly="True" HorizontalAlignment="Left" Width="495"/>
+        <Button x:Name="button" Content="ΝΑΙ" Margin="603.5,0,565.5,28.3" VerticalAlignment="Bottom" Height="38" Foreground="#FF33ADFF" FontSize="20" Background="#FFF3EFEF" Click="button_Click">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+        <Button x:Name="button1" Content="ΟΧΙ" HorizontalAlignment="Right" Margin="0,0,408,28.3" VerticalAlignment="Bottom" Width="111" Height="38" Foreground="#FF33ADFF" FontSize="20" Background="#FFF3EFEF" Click="button1_Click">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+        <Image x:Name="spp" Margin="292.934,87.163,204.453,145.246" Source="Σύνταγμα-Πανεπιστήμιο Πειραιά ποδια.png" Stretch="Fill" Visibility="Hidden"/>
+        <TextBox x:Name="textBox2" HorizontalAlignment="Left" TextWrapping="Wrap"  Width="190.5" ScrollViewer.HorizontalScrollBarVisibility="Auto"
+            IsReadOnly="True"
+            ScrollViewer.VerticalScrollBarVisibility="Auto"
+            ScrollViewer.CanContentScroll="True" Margin="48,87.163,0,114.863" FontSize="16" Text="Αναμενόμενη διάρκεια διαδρομής 1 ώρα και 51 λεπτά.&#xA;&#xA;Προχωρήστε βόρεια από Λεωφ. Βασιλίσσης Αμαλίας προς Όθωνος&#xA;39 μ&#xA;Στροφή αριστερά στην Όθωνος&#xA;120 μ&#xA;Στροφή δεξιά στην Πλ. Συντάγματος/ΕΟ91&#xA;13 μ&#xA;Στροφή αριστερά στη Μητροπόλεως&#xA;650 μ&#xA;Στροφή δεξιά στην Κηρυκείου&#xA;37 μ&#xA;Στροφή αριστερά στην Ερμού&#xA;500 μ&#xA;Στροφή αριστερά στην Αγ. Ασωμάτων&#xA;230 μ&#xA;Στρίψτε δεξιά για να παραμείνετε στην Αγ. Ασωμάτων&#xA;29 μ&#xA;Ανοιχτή στροφή αριστερά στην Ηλία Πουλόπουλου&#xA;170 μ&#xA;Στροφή αριστερά στην Ακταίου&#xA;66 μ&#xA;Στροφή δεξιά στην Ηρακλειδών&#xA;280 μ&#xA;Στροφή αριστερά στην Πλ. Αφαίας&#xA;6 μ&#xA;Στρίψτε δεξιά προς Θεσσαλονίκης&#xA;21 μ&#xA;Στροφή αριστερά στη Θεσσαλονίκης&#xA;24 μ&#xA;Στροφή δεξιά στην Ηρακλειδών&#xA;220 μ&#xA;Στροφή αριστερά στην Πειραιώς&#xA;4,2 χλμ.&#xA;Συνεχίστε προς Λεωφ. Αθηνών Πειραιώς&#xA;1,5 χλμ.&#xA;Στροφή αριστερά στη Γρ. Λαμπράκη&#xA;850 μ&#xA;Στροφή αριστερά στην Καραολή και Δημητρίου&#xA;120 μ&#xA;Στροφή δεξιά στη Δεληγιώργη&#xA;58 μ&#xA;Στρίψτε αριστερά και φτάσατε στον προορισμό σας." Visibility="Hidden"/>
+        <Image x:Name="spc" Margin="290.457,87.163,206.93,147.636" Source="Σύνταγμα-Πανεπιστήμιο-Συγγρου-Ποσειδώνος-8 αυτοκινητο.png" Stretch="Fill" Visibility="Hidden"/>
+        <TextBox x:Name="textBox3" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Αναμενόμενη διάρκεια διαδρομής 26 λεπτά.&#xA;&#xA;ΣΥΝΤΑΓΜΑ&#xA;Αθήνα 105 57&#xA;&#xA;Πάρτε την ΕΟ91 και Λεωφ. Ποσειδώνος προς Εθνάρχου Μακαρίου για Πειραιάς.&#xA;&#xA;Πάρτε την έξοδο προς Οδ. Πειραιώς/Μικρολίμανο από Λεωφ. Ποσειδώνος&#xA;13 λεπτ. (8,4 χλμ.)&#xA;&#xA;Πάρτε την Παναγίας Μυρτιδιωτίσσης, Ακτή Δηλαβέρη, Ακτή Κουμουνδούρου και Λεωφ. Βασιλέως Γεωργίου Β προς τον προορισμό σας&#xA;9 λεπτ. (3,0 χλμ.)" Width="190.5" ScrollViewer.HorizontalScrollBarVisibility="Auto"
+            IsReadOnly="True"
+            ScrollViewer.VerticalScrollBarVisibility="Auto"
+            ScrollViewer.CanContentScroll="True" Margin="48,84.213,0,117.813" FontSize="16" Visibility="Hidden"/>
+        <Button x:Name="button2" Margin="0,0,31.939,31" BorderBrush="Transparent" Click="button2_Click" HorizontalAlignment="Right" Height="105" VerticalAlignment="Bottom" Width="105">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="Black"/>
+                        </Trigger>
+                            <EventTrigger RoutedEvent="PreviewMouseDown">
+                                <SoundPlayerAction Source="/click.wav" />
+                            </EventTrigger>
+                       
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="parking_icon_png" Height="95" Source="parking-icon.png" Stretch="Fill" Width="95" Visibility="Hidden"/>
+        </Button>
+        <Label x:Name="label" Content="Πατήστε για&#xD;&#xA; πάρκινγκ" HorizontalAlignment="Right" Margin="0,0,136.939,31" VerticalAlignment="Bottom" FontSize="16" FontWeight="Bold" Height="76.28" Width="134.336" Visibility="Hidden"/>
+        <Button x:Name="back1" Margin="0,10,80.439,0" BorderBrush="Transparent" Width="70" Height="70" Click="back1_Click" HorizontalAlignment="Right" VerticalAlignment="Top" d:LayoutOverrides="Width, Height" RenderTransformOrigin="0.679,0.443">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="back_png" Source="back.png" Stretch="Fill" Width="60" Height="60"/>
+        </Button>
+        <Button x:Name="exit" Margin="0,10,-9.78,0" BorderBrush="Transparent" Width="70" Height="70" Click="exit_Click" HorizontalAlignment="Right" VerticalAlignment="Top" d:LayoutOverrides="Width, Height">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Style.Triggers>
+                        <EventTrigger RoutedEvent="PreviewMouseDown">
+                            <SoundPlayerAction Source="/click.wav" />
+                        </EventTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Image x:Name="xclose_icon_png_pagespeed_ic_a9KAtgUF_Y_png" Source="xclose-icon.png.pagespeed.ic.a9KAtgUF_Y.png" Stretch="Fill" Height="60" RenderTransformOrigin="0.376,1.188" d:LayoutOverrides="VerticalAlignment" Width="60"/>
+        </Button>
+        <Label x:Name="map" Content="Οδηγίες και χάρτης" Margin="394,31.322,398.007,0" FontSize="30" FontStyle="Italic" FontWeight="Bold" Height="67.96" VerticalAlignment="Top"/>
+
+    </Grid>
+
+</Page>
